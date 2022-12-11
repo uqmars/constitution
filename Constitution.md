@@ -1,4 +1,4 @@
-# Constitution of UQ Robotics
+# Constitution of UQ Mechatronics and Robotics Society
 
 <!--- Update this at AGM --->
 The constitution is enacted on this 17th day of February in the year 2012. It has been transcribed on the 29th day of October in the year 2022.
