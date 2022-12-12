@@ -11,6 +11,7 @@ The constitution is enacted on this 17th day of February in the year 2012. It ha
 
 * "The Club" shall refer to the organisation to which this constitution applies.
 * "Executive Team" shall refer to the team of members responsible for the administration and running of the club.
+* "T3 Officers" shall refer to the 'top 3' positions of the Executive Team (president, treasurer and secretary).
 
 ## 2 NAME
 
@@ -74,31 +75,39 @@ The constitution is enacted on this 17th day of February in the year 2012. It ha
 
 ## 8 MEMBERSHIP OF EXECUTIVE TEAM
 
-8.1 The Executive Team of The Club shall consist of a president, secretary, and treasurer (collectively known as the T3), all of whom shall be members of The Club, and such number of other members as the members of The Club at any general meeting may from time to time elect. All the aforestated office bearers must be members of the Union. Membership of the Executive Team shall not be restricted other than by being a member of the University of Queensland Union.
+8.1 The Executive Team of The Club shall consist of the T3 Officers, all of whom shall be members of The Club, and such number of other members as outlined in 8.4. All the aforestated office bearers must be members of the Union. Membership of the Executive Team shall not be restricted other than by being a member of the University of Queensland Union.
 
 8.2 At the annual general meeting of The Club, all the members of the Executive Team for the time being shall retire from office, but shall be eligible upon nomination for re-election.
 
-8.3 The election of officers and other members of the Executive Team shall take place in the following manner –
+8.3 The election of T3 Officers and other members of the Executive Team shall take place in the following manner –
 
-* any two (2) members of The Club shall be at liberty to nominate any other member to serve as an officer or other member of the Executive Team.
+* any two (2) members of The Club shall be at liberty to nominate any member to serve as an officer or other member of the Executive Team.
 * the nomination, which shall be in writing and signed by the member, the member's proposer (if different to the member) and seconder, shall be lodged with the secretary at least one (1) hour before the annual general meeting at which the election is to take place.
-* at the commencement of such meeting, nominations may be taken from the floor.
+* at the commencement of such meeting, nominations may be taken from those present provided that they are seconded by someone else in attendance.
 * any informality or irregularity in the elections must be brought to the attention of the Clubs and Societies Administration Officer within fourteen (14) days of the elections.
-* in the case of a secret ballot, the assembly will select a returning officer, who shall be responsible for ensuring the orderly running elections.
+* in the case of a secret ballot, the assembly will select a returning officer, who cannot be nominated for membership of the Executive Team and who shall be responsible for ensuring the orderly running of elections.
+
+8.4 There shall at no time be less than three (3) members on the Executive Team (the T3), and no more than $\max{\left(10, \left\lfloor \sqrt{2n} \right\rfloor\right)}$ members on the Executive Team where $n$ represents the number of financial members of The Club.
 
 ## 9 RESIGNATION OR REMOVAL FROM OFFICE OF MEMBER OF EXECUTIVE TEAM
 
-9.1 Any member of the Executive Team may resign from membership of the Executive Team at any time by giving notice in writing to the secretary but such resignation shall take effect at the time such notice is received by the secretary unless a later date is specified in the notice when it shall take effect on that later date or such member may be removed from office at a general meeting of The Club where that member shall be given the opportunity to fully present the member's case.
+9.1 Any member of the Executive Team may resign from membership of the Executive Team at any time by giving notice in writing to the secretary but such resignation shall take effect at the time such notice is received by the secretary unless a later date is specified in the notice when it shall take effect on that later date.
 
-9.2 The question of removal shall be determined by a vote of 60% majority of the members present at such a general meeting and must be endorsed by the Clubs and Societies committee.
+9.2 In the event that the resigning member is a T3 Officer, the secretary will be required to call a general meeting to be held within twenty-eight (28) days of receiving the resignation. In this case, the member shall hold their role until a replacement is elected at the general meeting.
 
-9.3 There is no right of appeal against a member's removal from office under this section.
+9.3 Any member of the Executive Team may be removed from office at a general meeting of The Club where that member shall be given the opportunity to fully present the member's case.
+
+9.4 The question of removal shall be determined by a vote of 60% majority of the members present at such a general meeting and must be endorsed by the Clubs and Societies committee.
+
+9.5 There is no right of appeal against a member's removal from office under this section.
 
 ## 10 VACANCIES ON EXECUTIVE TEAM
 
-10.1 The Executive Team shall have power at any time to appoint any member of The Club to fill any casual vacancy on the Executive Team until the next annual general meeting.
+10.1 The Executive Team shall have power at any time to appoint any member of The Club to fill any position on the Executive Team, other than the T3 Officers, until the next annual general meeting, provided that their appointment abides by the restrictions imposed in 8.4.
 
-10.2 The continuing members of the Executive Team may act notwithstanding any casual vacancy in the Executive Team, however if their number is reduced below the number fixed as is necessary for quorum of the Executive Team, the continuing member or members may act for the purpose of increasing the number of members of the Executive Team to that number required to achieve quorum or by summoning a general meeting of the association, but for no other purpose.
+10.2 Any such appointments shall be approved by all T3 Officers and determined by a vote of 70% majority of the members present at a quorate meeting of the Executive Team (per 12.5).
+
+10.3 The continuing members of the Executive Team may act notwithstanding any casual vacancy in the Executive Team, however if their number is reduced below the number fixed as is necessary for quorum of the Executive Team, the continuing member or members may act for the purpose of increasing the number of members of the Executive Team to that number required to achieve quorum or by summoning a general meeting of the association, but for no other purpose.
 
 ## 11 FUNCTIONS OF THE EXECUTIVE TEAM
 
@@ -125,7 +134,7 @@ The constitution is enacted on this 17th day of February in the year 2012. It ha
 12.4 A special meeting of the Executive Team shall be convened by the Secretary on the requisition in writing signed by not less than one-third (1/3) of the members of the Executive Team, which requisition shall clearly state the reasons why such special meeting is being convened and the nature of the business to be transacted thereat.
 
 <!--- Review this --->
-12.5 At every meeting of the Executive Team a simple majority of 50% of members plus one (1) elected and/or appointed to the Executive Team as at the close of the last general meeting of the members, shall constitute a quorum.
+12.5 At every meeting of the Executive Team a simple majority of 50% of members plus one (1) elected and/or appointed to the Executive Team as at the close of the last meeting of the Executive Team, shall constitute a quorum.
 
 12.6 Subject as previously provided in this section, the Executive Team may meet together and regulate its proceedings as it thinks fit.
 
@@ -137,7 +146,7 @@ The constitution is enacted on this 17th day of February in the year 2012. It ha
 
 12.10 Such notice shall clearly state the nature of the business to be discussed thereat.
 
-12.11 The president shall preside as chairperson at every meeting of the Executive Team, or if there is no president, or if at any meeting the president is not present within ten (10) minutes after the time appointed for holding the meeting, another member of T3 shall be chosen to be chairperson or if none of the T3 are present at the meeting then the meeting shall lapse.
+12.11 The president shall preside as chairperson at every meeting of the Executive Team, or if there is no president, or if at any meeting the president is not present within ten (10) minutes after the time appointed for holding the meeting, another T3 Officer shall be chosen to be chairperson or if none of the T3 are present at the meeting then the meeting shall lapse.
 
 12.12 If within half an hour from the time appointed for the commencement of a Executive Team meeting a quorum is not present, the meeting, if convened upon the requisition of members of the Executive Team, shall lapse.
 
@@ -149,13 +158,15 @@ The constitution is enacted on this 17th day of February in the year 2012. It ha
 
 13.2 Any subcommittee so formed shall in the exercise of the powers so delegated conform to any regulations that may be imposed on it by the Executive Team.
 
-13.3 A subcommittee may elect a chairperson of its meetings.
+13.3 All subcommittee members shall be included in meetings of the Executive Team, although their presence shall not contribute towards quorum nor shall they contribute towards any votes.
 
-13.4 If no such chairperson is elected, or if at any meeting the chairperson is not present within ten (10) minutes after the time appointed for holding the meeting, the members present may choose one (1) of their number to be chairperson of the meeting.
+13.4 A subcommittee may also hold their own meetings, for which they may elect a chairperson.
 
-13.5 A subcommittee may meet and adjourn, as it thinks proper.
+13.5 If no such chairperson is elected, or if at any meeting the chairperson is not present within ten (10) minutes after the time appointed for holding the meeting, the members present may choose one (1) of their number to be chairperson of the meeting.
 
-13.6 Questions arising at any meeting shall be determined by a majority of votes of the members present and, in the case of an equality of votes, the question shall be deemed to be decided in the negative.
+13.6 A subcommittee may meet and adjourn, as it thinks proper.
+
+13.7 Questions arising at any meeting shall be determined by a majority of votes of the members present and, in the case of an equality of votes, the question shall be deemed to be decided in the negative.
 
 ## 14 RESOLUTIONS OF EXECUTIVE TEAM WITHOUT MEETING
 
@@ -205,12 +216,11 @@ the meeting within fourteen (14) days of:
 
 ## 19 QUORUM AT GENERAL MEETING
 
-19.1 At any general meeting the number of members required to constitute a quorum shall be 15% of the membership plus one (1).
+19.1 At any general meeting the number of members required to constitute a quorum shall be 15% of the number of financial members plus one (1).
 
 ## 20 NOTICE OF GENERAL MEETING
 
-<!--- Review this --->
-20.1 The secretary shall convene at least two general meetings per semester of The Club by giving not less than fourteen (14) days notice of any such meeting to the members of The Club.
+20.1 The secretary shall convene at least one general meeting of The Club per financial year by giving not less than fourteen (14) days notice of any such meeting to the members of The Club.
 
 20.2 The manner by which such notice shall be given shall be determined by the Executive Team.
 
@@ -220,7 +230,7 @@ the meeting within fourteen (14) days of:
 
 21.1 Unless otherwise provided by these rules, at every general meeting –
 
-* the president shall preside as chairperson, or if there is no president, or if the president is not present within fifteen (15) minutes after the time appointed for the holding of the meeting or is unwilling to act, the vice-president shall be the chairperson or if the vice-president is not present or is unwilling to act then the members present shall elect one (1) of their number to be chairperson of the meeting
+* the president shall preside as chairperson, or if there is no president, or if the president is not present within fifteen (15) minutes after the time appointed for the holding of the meeting or is unwilling to act, another T3 Officer shall be chosen as chairperson or if none of the T3 are present or willing to act then the members present shall elect one (1) of their number to be chairperson of the meeting
 * the chairperson shall maintain order and conduct the meeting in a proper and orderly manner
 * every question, matter or resolution shall be decided by a majority of votes of the members present
 * every resolution must be minuted.
