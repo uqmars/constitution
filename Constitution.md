@@ -10,14 +10,15 @@ The constitution is enacted on this 17th day of February in the year 2012. It ha
 1.1 Within this document, the following definitions shall be used:
 
 * "The Club" shall refer to the organisation to which this constitution applies.
+* "The Union" shall refer to the University of Queensland Union.
 * "Executive Team" shall refer to the team of members responsible for the administration and running of the club.
-* "T3 Officers" shall refer to the 'top 3' positions of the Executive Team (president, treasurer and secretary).
+* "T3 Officers" shall refer to those in the 'top 3' positions of the Executive Team (president, treasurer and secretary).
 
 ## 2 NAME
 
 2.1 The Club shall be called the "UQ Mechatronics and Robotics Society", otherwise abbreviated to "UQ MARS".
 
-2.2 The Club shall be an associated body of the University of Queensland Union in the category of Faculty/Departmental.
+2.2 The Club shall be an associated body of the The Union in the category of Faculty/Departmental.
 
 ## 3 AIMS & OBJECTIVES
 
@@ -65,17 +66,17 @@ The constitution is enacted on this 17th day of February in the year 2012. It ha
 
 6.4 The member concerned shall be given a full and fair opportunity of presenting the member's case and if the Executive Team resolves to terminate the membership it shall instruct the secretary to advise the member in writing accordingly.
 
-## 7 REGISTER OF MEMBERS
+## 7 REGISTRY OF MEMBERS
 
-7.1 The Executive Team shall cause a register to be kept in which shall be entered the name and student number of all persons admitted to membership of The Club and the dates of their admission.
+7.1 The Executive Team shall keep a registry in which shall be entered the name and student number of all persons admitted to membership of The Club and the dates of their admission.
 
-7.2 Particulars shall also be entered into the register of resignations, terminations and reinstatement of membership and any further particulars as the Executive Team or the members at any general meeting may require from time to time.
+7.2 Particulars shall also be entered into the registry of resignations, terminations and reinstatement of membership and any further particulars as the Executive Team or the members at any general meeting may require from time to time.
 
-7.3 The register shall be open for inspection at all reasonable times by any member who previously applies to the secretary for such inspection and a copy provided for the Clubs and Societies Administration Officer each semester.
+7.3 The registry shall be open for inspection at all reasonable times by any member who previously applies to the secretary for such inspection and a copy provided for the Clubs and Societies Administration Officer each semester.
 
 ## 8 MEMBERSHIP OF EXECUTIVE TEAM
 
-8.1 The Executive Team of The Club shall consist of the T3 Officers, all of whom shall be members of The Club, and such number of other members as outlined in 8.4. All the aforestated office bearers must be members of the Union. Membership of the Executive Team shall not be restricted other than by being a member of the University of Queensland Union.
+8.1 The Executive Team of The Club shall consist of the T3 Officers, all of whom shall be members of The Club, and such number of other members as the members of The Club at any general meeting may from time to time elect, provided it meets the requiremments imposed by 8.4. All the aforestated office bearers must be members of The Union. Membership of the Executive Team shall not be restricted other than by being a member of The Union.
 
 8.2 At the annual general meeting of The Club, all the members of the Executive Team for the time being shall retire from office, but shall be eligible upon nomination for re-election.
 
@@ -148,7 +149,7 @@ The constitution is enacted on this 17th day of February in the year 2012. It ha
 
 12.11 The president shall preside as chairperson at every meeting of the Executive Team, or if there is no president, or if at any meeting the president is not present within ten (10) minutes after the time appointed for holding the meeting, another T3 Officer shall be chosen to be chairperson or if none of the T3 are present at the meeting then the meeting shall lapse.
 
-12.12 If within half an hour from the time appointed for the commencement of a Executive Team meeting a quorum is not present, the meeting, if convened upon the requisition of members of the Executive Team, shall lapse.
+12.12 If within fifteen (15) minutes from the time appointed for the commencement of a Executive Team meeting a quorum is not present, the meeting, if convened upon the requisition of members of the Executive Team, shall lapse.
 
 12.13 In any other case it shall stand adjourned to the same day in the next week at the same time and place or to such other day and at such other time and place as the Executive Team may determine, and if at the adjourned meeting a quorum is not present within half an hour from the time appointed for the meeting, the meeting shall lapse.
 
@@ -196,9 +197,9 @@ The constitution is enacted on this 17th day of February in the year 2012. It ha
 * the receiving of the auditor's report on the financial affairs of The Club for the last financial year
 * the presenting of the audited statement to the meeting for adoption
 * the election of members of the Executive Team
-* the appointment of an auditor who shall be the nominee of the Union for Club/Societies or an independent auditor who must be a member of the Institute of Chartered Accountants in Australia or the Australian Association of Accountants or a successor to either of these bodies
+* the appointment of an auditor who shall be the nominee of The Union for Club/Societies or an independent auditor who must be a member of the Institute of Chartered Accountants in Australia or the Australian Association of Accountants or a successor to either of these bodies
 
-17.2 The minutes of the annual general meeting shall be submitted to the Clubs and Societies Administration Officer within seven (7) days of the annual general meeting
+17.2 The minutes of the annual general meeting shall be submitted to the The Union's Clubs and Societies Administration Officer within seven (7) days of the annual general meeting
 
 17.3 Where there is a tied vote, the issue will be deemed to have been resolved in the
 negative.
@@ -230,7 +231,7 @@ the meeting within fourteen (14) days of:
 
 21.1 Unless otherwise provided by these rules, at every general meeting –
 
-* the president shall preside as chairperson, or if there is no president, or if the president is not present within fifteen (15) minutes after the time appointed for the holding of the meeting or is unwilling to act, another T3 Officer shall be chosen as chairperson or if none of the T3 are present or willing to act then the members present shall elect one (1) of their number to be chairperson of the meeting
+* the president shall preside as chairperson, or if there is no president, or if the president is not present within fifteen (15) minutes after the time appointed for the holding of the meeting or is unwilling to act, another T3 Officer shall be chosen as chairperson or if none of the T3 Officers are present or willing to act then the members present shall elect one (1) of their number to be chairperson of the meeting
 * the chairperson shall maintain order and conduct the meeting in a proper and orderly manner
 * every question, matter or resolution shall be decided by a majority of votes of the members present
 * every resolution must be minuted.
