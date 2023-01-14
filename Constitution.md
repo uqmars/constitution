@@ -259,13 +259,11 @@ the meeting within fourteen (14) days of:
 
 23.1 The funds of The Club must be kept in the name of The Club in the University branch of the Commonwealth Bank. The Club shall operate one (1) account only. Exceptions to this can only occur with the specific approval of the Clubs and Societies committee.
 
-23.2 Proper books and accounts shall be kept and maintained either in written or printed form in the English language showing correctly the financial affairs of The Club and the particulars usually shown in books of a like nature.
+23.2 Proper books and accounts shall be kept and maintained either in digital, written or printed form in the English language showing correctly the financial affairs of The Club and the particulars usually shown in books of a like nature.
 
 23.3 All monies shall be deposited in total as soon as practicable after receipt thereof.
 
-23.4 All amounts shall be paid by cheque signed by any two (2) of the president, secretary, treasurer, or other member authorised from time to time by the Executive Team and/or the Clubs and Societies Administration Officer.
-
-23.5 Cheques shall be crossed "not negotiable".
+23.4 All amounts shall be paid by bank transfer signed by any two (2) of the president, secretary, treasurer, or other member authorised from time to time by the Executive Team and/or the Clubs and Societies Administration Officer.
 
 23.6 The Executive Team shall determine the amount of petty cash which shall be kept.
 
