@@ -88,7 +88,7 @@ The constitution is enacted on this 17th day of February in the year 2012. It ha
 * any informality or irregularity in the elections must be brought to the attention of the Clubs and Societies Administration Officer within fourteen (14) days of the elections.
 * in the case of a secret ballot, the assembly will select a returning officer, who cannot be nominated for membership of the Executive Team and who shall be responsible for ensuring the orderly running of elections.
 
-8.4 There shall at no time be less than three (3) members on the Executive Team (the T3), and no more than $\max{\left(10, \left\lfloor \sqrt{2n} \right\rfloor\right)}$ members on the Executive Team where $n$ represents the number of financial members of The Club.
+8.4 There shall at no time be less than three (3) members on the Executive Team (the T3), and no more than $\max{\left(10, \left\lfloor \sqrt{2n} \right\rfloor\right)}$ members on the Executive Team where $n$ represents the number of financial members of The Club as of the beginning of the most recent Annual General Meeting.
 
 ## 9 RESIGNATION OR REMOVAL FROM OFFICE OF MEMBER OF EXECUTIVE TEAM
 
