@@ -121,7 +121,6 @@ The constitution is enacted on this 17th day of February in the year 2012. It ha
 
 * to raise or secure the payment of money in such manner as the members of The Club may think fit and secure the payment or performance of any debt, liability or other engagement incurred or to be entered into by The Club in any way.
 
-<!--- Review this --->
 11.3 The Executive Team will take full responsibility for all publications produced by The Club or by any of its members.
 
 ## 12 MEETINGS OF EXECUTIVE TEAM
@@ -134,7 +133,6 @@ The constitution is enacted on this 17th day of February in the year 2012. It ha
 
 12.4 A special meeting of the Executive Team shall be convened by the Secretary on the requisition in writing signed by not less than one-third (1/3) of the members of the Executive Team, which requisition shall clearly state the reasons why such special meeting is being convened and the nature of the business to be transacted thereat.
 
-<!--- Review this --->
 12.5 At every meeting of the Executive Team a simple majority of 50% of members plus one (1) elected and/or appointed to the Executive Team as at the close of the last meeting of the Executive Team, shall constitute a quorum.
 
 12.6 Subject as previously provided in this section, the Executive Team may meet together and regulate its proceedings as it thinks fit.
@@ -247,7 +245,6 @@ the meeting within fourteen (14) days of:
 * of the entitled members of The Club who vote in person or (if proxies are allowed) by proxy at a meeting, not less than three quarters (3/4) vote in favour of the resolution; and
 * any additional requirements of the constitution relating to the passing of a special resolution have been met.
 
-<!--- Review this --->
 22.4 A resolution is not to be considered to have been passed as a special resolution under sub-section (2) unless not less than twenty-one (21) days notice has been given in accordance with the rules to all of the entitled members of The Club specifying the intention to propose the resolution as a special resolution.
 
 22.5 At any meeting at which a special resolution is submitted, a declaration by the chairperson that the resolution has been carried is conclusive proof of the fact unless a poll is demanded.
@@ -255,7 +252,6 @@ the meeting within fourteen (14) days of:
 22.6 In this section "entitled member" means a member of The Club who is entitled under the rules of the association to vote.
 
 ## 23 FUNDS AND ACCOUNTS
-<!--- Review this whole section to meet modern banking standards --->
 
 23.1 The funds of The Club must be kept in the name of The Club in the University branch of the Commonwealth Bank. The Club shall operate one (1) account only. Exceptions to this can only occur with the specific approval of the Clubs and Societies committee.
 
@@ -285,7 +281,6 @@ the meeting within fourteen (14) days of:
 24.1 In the event of The Club being dissolved, the amount that remains after such dissolution and the satisfaction of all debts and liabilities shall be transferred to any association with similar purposes which is not carried on for the profit for gain of its individual members.
 
 ## 25 ACQUISITION CLAUSE
-<!--- New section, review this --->
 
 25.1 In the event that The Club is ever acquired by another Club/Society or enters into a subsidiary affiliation agreement, this shall occur for an up-front cost no less than one hundred thousand (100,000) Australian dollars to be channelled to be used in-line with the purpose of this Club/Society.
 
