@@ -1,7 +1,6 @@
 # Constitution of UQ Mechatronics and Robotics Society
 
-<!--- Update this at AGM --->
-The constitution is enacted on this 17th day of February in the year 2012. It has been transcribed on the 29th day of October in the year 2022.
+The constitution is enacted on this 9th day of March in the year 2023.
 
 ---
 
@@ -282,7 +281,7 @@ the meeting within fourteen (14) days of:
 
 ## 25 ACQUISITION CLAUSE
 
-25.1 In the event that The Club is ever acquired by another Club/Society or enters into a subsidiary affiliation agreement, this shall occur for an up-front cost no less than one hundred thousand (100,000) Australian dollars to be channelled to be used in-line with the purpose of this Club/Society.
+25.1 In the event that The Club is ever acquired by another Club/Society or enters into a subsidiary affiliation agreement, this shall occur for an up-front cost no less than one hundred thousand (100,000) Australian dollars to be channelled to be used in-line with the purpose of The Club.
 
 25.2 From the date that such acquisition / agreement is finalised, the name of this Club/Society shall be changed to the "UQ Robotics and Technology Society", otherwise abbreviated to "UQ RATS" for a period no less than three (3) years.
 
