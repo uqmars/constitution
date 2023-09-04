@@ -87,7 +87,7 @@ The constitution is enacted on this 9th day of March in the year 2023.
 * any informality or irregularity in the elections must be brought to the attention of the Clubs and Societies Administration Officer within fourteen (14) days of the elections.
 * in the case of a secret ballot, the assembly will select a returning officer, who cannot be nominated for membership of the Executive Team and who shall be responsible for ensuring the orderly running of elections.
 
-8.4 There shall at no time be less than three (3) members on the Executive Team (the T3), and no more than $\max{\left(10, \left\lfloor \sqrt{2n} \right\rfloor\right)}$ members on the Executive Team where $n$ represents the number of financial members of The Club as of the beginning of the most recent Annual General Meeting.
+8.4 There shall at no time be less than three (3) members on the Executive Team (the T3), and no more than $\max{\left(5, \left\lfloor \sqrt{\frac{69}{42}n} \right\rfloor\right)}$ members on the Executive Team where $n$ represents the number of financial members of The Club as of the beginning of the most recent Annual General Meeting.
 
 ## 9 RESIGNATION OR REMOVAL FROM OFFICE OF MEMBER OF EXECUTIVE TEAM
 
@@ -105,7 +105,7 @@ The constitution is enacted on this 9th day of March in the year 2023.
 
 10.1 The Executive Team shall have power at any time to appoint any member of The Club to fill any position on the Executive Team, other than the T3 Officers, until the next annual general meeting, provided that their appointment abides by the restrictions imposed in 8.4.
 
-10.2 Any such appointments shall be approved by all T3 Officers and determined by a vote of 70% majority of the members present at a quorate meeting of the Executive Team (per 12.5).
+10.2 Any such appointments shall be approved by all T3 Officers and determined by a vote of 75% majority of the members present at a quorate meeting of the Executive Team (per 12.5).
 
 10.3 The continuing members of the Executive Team may act notwithstanding any casual vacancy in the Executive Team, however if their number is reduced below the number fixed as is necessary for quorum of the Executive Team, the continuing member or members may act for the purpose of increasing the number of members of the Executive Team to that number required to achieve quorum or by summoning a general meeting of the association, but for no other purpose.
 
@@ -214,7 +214,7 @@ the meeting within fourteen (14) days of:
 
 ## 19 QUORUM AT GENERAL MEETING
 
-19.1 At any general meeting the number of members required to constitute a quorum shall be 15% of the number of financial members plus one (1).
+19.1 At any general meeting the number of members required to constitute a quorum shall be equal to $\left\lceil\min{\left(0.15n + 1, \frac{\pi}{e-1}\sqrt{n}\right)}\right\rceil$, where $n$ is the number of current financial members, $\pi\approx3.1415...$ is the circle constant, and $e\approx2.718...$ is Euler's number.
 
 ## 20 NOTICE OF GENERAL MEETING
 
