@@ -39,13 +39,13 @@ The constitution is enacted on this 9th day of March in the year 2023.
 
 4.2 The Club shall have not less than thirty (30) financial members to remain a subsidised club.
 
-4.3 70% of The Club's membership must be students.
+4.3 At least 70% of The Club's membership must be students.
 
 4.4 The Club shall not adopt aims or objectives, which would bring it under the jurisdiction of the University of Queensland Sports Association (UQ Sport).
 
 ## 5 MEMBERSHIP FEES
 
-5.1 The membership fees shall be such sum, as the members shall from time to time at any general meeting so determine, but shall not be less than two (2) dollars per member per annum.
+5.1 The membership fees shall be such sum, as the Executive Team shall from time to time at any meeting of the Executive Team so determine, but shall not be less than two (2) dollars per member per annum.
 
 5.2 The membership fees shall be payable upon joining The Club.
 
@@ -132,7 +132,7 @@ The constitution is enacted on this 9th day of March in the year 2023.
 
 12.4 A special meeting of the Executive Team shall be convened by the Secretary on the requisition in writing signed by not less than one-third (1/3) of the members of the Executive Team, which requisition shall clearly state the reasons why such special meeting is being convened and the nature of the business to be transacted thereat.
 
-12.5 At every meeting of the Executive Team a simple majority of 50% of members plus one (1) elected and/or appointed to the Executive Team as at the close of the last meeting of the Executive Team, shall constitute a quorum.
+12.5 At every meeting of the Executive Team a simple majority of over 50% of members elected and/or appointed to the Executive Team as at the close of the last meeting of the Executive Team, shall constitute a quorum.
 
 12.6 Subject as previously provided in this section, the Executive Team may meet together and regulate its proceedings as it thinks fit.
 
@@ -248,7 +248,7 @@ the meeting within fourteen (14) days of:
 
 22.5 At any meeting at which a special resolution is submitted, a declaration by the chairperson that the resolution has been carried is conclusive proof of the fact unless a poll is demanded.
 
-22.6 In this section "entitled member" means a member of The Club who is entitled under the rules of the association to vote.
+22.6 In this section "entitled member" means a member of The Club who is entitled under the rules of The Club to vote.
 
 ## 23 FUNDS AND ACCOUNTS
 
