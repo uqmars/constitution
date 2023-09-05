@@ -15,9 +15,11 @@ The constitution is enacted on this 9th day of March in the year 2023.
 
 ## 2 NAME
 
-2.1 The Club shall be called the "UQ Mechatronics and Robotics Society", otherwise abbreviated to "UQ MARS".
+2.1 The Club shall be called the "UQ Mechatronics and Robotics Society Inc.", otherwise abbreviated to "UQ MARS".
 
-2.2 The Club shall be an associated body of the The Union in the category of Faculty/Departmental.
+2.2 The Club is an incorporated association, recognised by the Australian Office of Fair Trading under the Associations Incorporation Act 1981.
+
+2.3 The Club shall be an associated body of the The Union in the category of Faculty/Departmental.
 
 ## 3 AIMS & OBJECTIVES
 
@@ -87,7 +89,7 @@ The constitution is enacted on this 9th day of March in the year 2023.
 * any informality or irregularity in the elections must be brought to the attention of the Clubs and Societies Administration Officer within fourteen (14) days of the elections.
 * in the case of a secret ballot, the assembly will select a returning officer, who cannot be nominated for membership of the Executive Team and who shall be responsible for ensuring the orderly running of elections.
 
-8.4 There shall at no time be less than three (3) members on the Executive Team (the T3), and no more than $\max{\left(5, \left\lfloor \sqrt{\frac{69}{42}n} \right\rfloor\right)}$ members on the Executive Team where $n$ represents the number of financial members of The Club as of the beginning of the most recent Annual General Meeting.
+8.4 There shall at no time be less than three (3) members on the Executive Team (the T3 Officers), and no more than $\max{\left(5, \left\lfloor \sqrt{\frac{69}{42}n} \right\rfloor\right)}$ members on the Executive Team where $n$ represents the number of financial members of The Club as of the beginning of the latest Annual General Meeting (including the one in session, should this be the case).
 
 ## 9 RESIGNATION OR REMOVAL FROM OFFICE OF MEMBER OF EXECUTIVE TEAM
 
@@ -105,9 +107,11 @@ The constitution is enacted on this 9th day of March in the year 2023.
 
 10.1 The Executive Team shall have power at any time to appoint any member of The Club to fill any position on the Executive Team, other than the T3 Officers, until the next annual general meeting, provided that their appointment abides by the restrictions imposed in 8.4.
 
-10.2 Any such appointments shall be approved by all T3 Officers and determined by a vote of 75% majority of the members present at a quorate meeting of the Executive Team (per 12.5).
+10.2 Should there be a vacancy in the position of one of the T3 Officers, a member of the Executive Team can be appointed to fill the position until the next general meeting. In the event that the Executive Team contains no members who are not T3 Officers, and only then, can the club appoint any member of The Club to fill this position until the next general meeting.
 
-10.3 The continuing members of the Executive Team may act notwithstanding any casual vacancy in the Executive Team, however if their number is reduced below the number fixed as is necessary for quorum of the Executive Team, the continuing member or members may act for the purpose of increasing the number of members of the Executive Team to that number required to achieve quorum or by summoning a general meeting of the association, but for no other purpose.
+10.3 Any such appointments shall be approved by all T3 Officers and determined by a vote of 75% majority of the members present at a quorate meeting of the Executive Team (per 12.5).
+
+10.4 The continuing members of the Executive Team may act notwithstanding any casual vacancy in the Executive Team, however if their number is reduced below the number fixed as is necessary for quorum of the Executive Team, the continuing member or members may act for the purpose of increasing the number of members of the Executive Team to that number required to achieve quorum or by summoning a general meeting of the association, but for no other purpose.
 
 ## 11 FUNCTIONS OF THE EXECUTIVE TEAM
 
@@ -132,7 +136,7 @@ The constitution is enacted on this 9th day of March in the year 2023.
 
 12.4 A special meeting of the Executive Team shall be convened by the Secretary on the requisition in writing signed by not less than one-third (1/3) of the members of the Executive Team, which requisition shall clearly state the reasons why such special meeting is being convened and the nature of the business to be transacted thereat.
 
-12.5 At every meeting of the Executive Team a simple majority of over 50% of members elected and/or appointed to the Executive Team as at the close of the last meeting of the Executive Team, shall constitute a quorum.
+12.5 At every meeting of the Executive Team a simple majority of more than 50% of members elected and/or appointed to the Executive Team as at the close of the last meeting of the Executive Team, shall constitute a quorum.
 
 12.6 Subject as previously provided in this section, the Executive Team may meet together and regulate its proceedings as it thinks fit.
 
@@ -144,7 +148,7 @@ The constitution is enacted on this 9th day of March in the year 2023.
 
 12.10 Such notice shall clearly state the nature of the business to be discussed thereat.
 
-12.11 The president shall preside as chairperson at every meeting of the Executive Team, or if there is no president, or if at any meeting the president is not present within ten (10) minutes after the time appointed for holding the meeting, another T3 Officer shall be chosen to be chairperson or if none of the T3 are present at the meeting then the meeting shall lapse.
+12.11 The president shall preside as chairperson at every meeting of the Executive Team, or if there is no president, or if at any meeting the president is not present within ten (10) minutes after the time appointed for holding the meeting, another T3 Officer shall be chosen to be chairperson or if none of the T3 Officers are present at the meeting then the meeting shall lapse.
 
 12.12 If within fifteen (15) minutes from the time appointed for the commencement of a Executive Team meeting a quorum is not present, the meeting, if convened upon the requisition of members of the Executive Team, shall lapse.
 
@@ -198,8 +202,7 @@ The constitution is enacted on this 9th day of March in the year 2023.
 
 17.2 The minutes of the annual general meeting shall be submitted to the The Union's Clubs and Societies Administration Officer within seven (7) days of the annual general meeting
 
-17.3 Where there is a tied vote, the issue will be deemed to have been resolved in the
-negative.
+17.3 Where there is a tied vote, the issue will be deemed to have been resolved in the negative.
 
 ## 18 SPECIAL GENERAL MEETING
 
