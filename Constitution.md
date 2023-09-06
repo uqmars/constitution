@@ -99,9 +99,11 @@ The constitution is enacted on this 9th day of March in the year 2023.
 
 9.3 Any member of the Executive Team may be removed from office at a general meeting of The Club where that member shall be given the opportunity to fully present the member's case.
 
-9.4 The question of removal shall be determined by a vote of 60% majority of the members present at such a general meeting and must be endorsed by the Clubs and Societies committee.
+9.4 Should any member of the Executive Team other than the T3 Officers fail to attend at least three (3) consecutive meetings of the Executive Team, they may be removed from office at the next meeting of the Executive Team where that member shall be given the opportunity to fully present their case. In the event that they are removed under this clause, a notice must be sent to all current members advising of the decision.
 
-9.5 There is no right of appeal against a member's removal from office under this section.
+9.5 The question of removal shall be determined by a vote of 60% majority of the members present at such a meeting and must be endorsed by the Clubs and Societies committee.
+
+9.6 There is no right of appeal against a member's removal from office under this section.
 
 ## 10 VACANCIES ON EXECUTIVE TEAM
 
