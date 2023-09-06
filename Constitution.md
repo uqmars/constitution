@@ -89,7 +89,7 @@ The constitution is enacted on this 9th day of March in the year 2023.
 * any informality or irregularity in the elections must be brought to the attention of the Clubs and Societies Administration Officer within fourteen (14) days of the elections.
 * in the case of a secret ballot, the assembly will select a returning officer, who cannot be nominated for membership of the Executive Team and who shall be responsible for ensuring the orderly running of elections.
 
-8.4 There shall at no time be less than three (3) members on the Executive Team (the T3 Officers), and no more than $\max{\left(5, \left\lfloor \sqrt{\frac{69}{42}n} \right\rfloor\right)}$ members on the Executive Team where $n$ represents the number of financial members of The Club as of the beginning of the latest Annual General Meeting (including the one in session, should this be the case).
+8.4 There shall at no time be less than three (3) members on the Executive Team (the T3 Officers), and no more than $\min{\left(Q, \left\lfloor \sqrt{\frac{69}{42}n} \right\rfloor\right)}$ members on the Executive Team where $Q$ and $n$ represent the quorum and number of financial members of The Club as of the beginning of the latest Annual General Meeting (including the one in session, should this be the case).
 
 ## 9 RESIGNATION OR REMOVAL FROM OFFICE OF MEMBER OF EXECUTIVE TEAM
 
