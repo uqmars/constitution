@@ -290,3 +290,17 @@ the meeting within fourteen (14) days of:
 26.1 The Executive Team shall provide for the safe custody of books, documents, instruments of title and securities of The Club.
 
 26.2 The financial year of The Club shall close on 31 August in each year.
+
+## 27 LIFE MEMBERSHIP
+
+27.1 The honourary title of life member may be presented to former members of the Executive Team via special resolution at a general meeting of The Club. This title is intended to honour those that have made significant contributions to The Club and have since remained close to it.
+
+27.2 Such resolution is bound by the same rules as are outlined for special resolutions in section 22 regarding the alteration of rules.
+
+27.3 In order to be voted in as a life member, the individual must meet all of the following:
+
+* Must have previously been a member of the Executive Team
+* Must not have been a member of the Executive Team within the past two (2) years
+
+27.4 Life members shall for all purposes be considered members of The Club, with the exception of the classification of "financial members". Financial membership does not apply to life members.
+
