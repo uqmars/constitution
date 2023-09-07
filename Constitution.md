@@ -1,6 +1,6 @@
 # Constitution of UQ Mechatronics and Robotics Society
 
-The constitution is enacted on this 9th day of March in the year 2023.
+The constitution is enacted on this 12th day of October in the year 2023.
 
 ---
 
@@ -84,7 +84,7 @@ The constitution is enacted on this 9th day of March in the year 2023.
 8.3 The election of T3 Officers and other members of the Executive Team shall take place in the following manner –
 
 * any two (2) members of The Club shall be at liberty to nominate any member to serve as an officer or other member of the Executive Team.
-* the nomination, which shall be in writing and signed by the member, the member's proposer (if different to the member) and seconder, shall be lodged with the secretary at least one (1) hour before the annual general meeting at which the election is to take place.
+* the nomination, which shall clearly identify the member, the member's proposer (if different to the member) and seconder, shall be lodged with the secretary at least one (1) hour before the general meeting at which the election is to take place.
 * at the commencement of such meeting, nominations may be taken from those present provided that they are seconded by someone else in attendance.
 * any informality or irregularity in the elections must be brought to the attention of the Clubs and Societies Administration Officer within fourteen (14) days of the elections.
 * in the case of a secret ballot, the assembly will select a returning officer, who cannot be nominated for membership of the Executive Team and who shall be responsible for ensuring the orderly running of elections.
@@ -99,7 +99,7 @@ The constitution is enacted on this 9th day of March in the year 2023.
 
 9.3 Any member of the Executive Team may be removed from office at a general meeting of The Club where that member shall be given the opportunity to fully present the member's case.
 
-9.4 Should any member of the Executive Team other than the T3 Officers fail to attend at least three (3) consecutive meetings of the Executive Team, they may be removed from office at the next meeting of the Executive Team where that member shall be given the opportunity to fully present their case. In the event that they are removed under this clause, a notice must be sent to all current members advising of the decision.
+9.4 Should any member of the Executive Team, other than the T3 Officers, fail to attend at least three (3) consecutive meetings of the Executive Team, they may be removed from office at the next meeting of the Executive Team where that member shall be given the opportunity to fully present their case. In the event that they are removed under this clause, a notice must be sent to all current members advising of the decision.
 
 9.5 The question of removal shall be determined by a vote of 60% majority of the members present at such a meeting and must be endorsed by the Clubs and Societies committee.
 
@@ -138,7 +138,7 @@ The constitution is enacted on this 9th day of March in the year 2023.
 
 12.4 A special meeting of the Executive Team shall be convened by the Secretary on the requisition in writing signed by not less than one-third (1/3) of the members of the Executive Team, which requisition shall clearly state the reasons why such special meeting is being convened and the nature of the business to be transacted thereat.
 
-12.5 At every meeting of the Executive Team a simple majority of more than 50% of members elected and/or appointed to the Executive Team as at the close of the last meeting of the Executive Team, shall constitute a quorum.
+12.5 At every meeting of the Executive Team a simple majority of more than 50% of members elected and/or appointed to the Executive Team as at the close of the last meeting of the Executive Team or General Meeting, shall constitute a quorum.
 
 12.6 Subject as previously provided in this section, the Executive Team may meet together and regulate its proceedings as it thinks fit.
 
@@ -257,13 +257,13 @@ the meeting within fourteen (14) days of:
 
 ## 23 FUNDS AND ACCOUNTS
 
-23.1 The funds of The Club must be kept in the name of The Club in the University branch of the Commonwealth Bank. The Club shall operate one (1) account only. Exceptions to this can only occur with the specific approval of the Clubs and Societies committee.
+23.1 The funds of The Club must be kept in the name of The Club in the branch of the Commonwealth Bank delegated by The Union. The Club shall operate one (1) account only. Exceptions to this can only occur with the specific approval of the Clubs and Societies committee.
 
 23.2 Proper books and accounts shall be kept and maintained either in digital, written or printed form in the English language showing correctly the financial affairs of The Club and the particulars usually shown in books of a like nature.
 
 23.3 All monies shall be deposited in total as soon as practicable after receipt thereof.
 
-23.4 All amounts shall be paid by bank transfer signed by any two (2) of the president, secretary, treasurer, or other member authorised from time to time by the Executive Team and/or the Clubs and Societies Administration Officer.
+23.4 All amounts shall be paid by bank transfer signed by any two (2) of the T3 Officers, or other member authorised from time to time by the Executive Team and/or the Clubs and Societies Administration Officer.
 
 23.6 The Executive Team shall determine the amount of petty cash which shall be kept.
 
