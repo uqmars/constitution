@@ -257,7 +257,7 @@ the meeting within fourteen (14) days of:
 
 ## 23 FUNDS AND ACCOUNTS
 
-23.1 The funds of The Club must be kept in the name of The Club in the branch of the Commonwealth Bank delegated by The Union. The Club shall operate one (1) account only. Exceptions to this can only occur with the specific approval of the Clubs and Societies committee.
+23.1 The funds of The Club must be kept in the name of The Club in the banking branch delegated by The Union. The Club shall operate one (1) account only. Exceptions to this can only occur with the specific approval of the Clubs and Societies committee.
 
 23.2 Proper books and accounts shall be kept and maintained either in digital, written or printed form in the English language showing correctly the financial affairs of The Club and the particulars usually shown in books of a like nature.
 
