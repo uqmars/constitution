@@ -300,7 +300,7 @@ the meeting within fourteen (14) days of:
 27.3 In order to be voted in as a Life Member, the individual must meet all of the following:
 
 * Must have previously been a member of the Executive Team
-* Must not have been a member of the Executive Team within the past two (2) years
+* Must not have been a member of the Executive Team within the past two (2) calendar years
 
 27.4 Life Members shall for all purposes be considered members of The Club, with the exception of the classification of "financial members". Financial membership does not apply to Life Members.
 
