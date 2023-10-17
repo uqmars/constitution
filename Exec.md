@@ -42,16 +42,16 @@ Secretary: Reuben Richardson
 ### Rest of Team
 
 * Alnmad Alnmad
-* Ella Bazin (Resigned in July)
+* Ella Bazin
 * Shanker Dorairajan
 * Jet Garcia
-* Joshua Lai (Resigned in August)
-* Ash Masame (Resigned in July)
+* Joshua Lai
+* Ash Masame
 * Shwethank Nampalli
 * Francisco Prado
 * Slater Sammut
-* Hokul Srikanthan (Resigned in April)
-* Benjamin Tran (Elected to fill casual vacancy in April)
+* Hokul Srikanthan
+* Benjamin Tran
 * Miguel Valencia
 * Binara Wasala
 * Kelly Zhou
