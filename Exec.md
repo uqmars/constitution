@@ -1,6 +1,6 @@
 # Current and Previous Executives of UQ MARS
 
-This document contains a list of all club executives since 2020.
+This document contains a list of all club executives on record.
 
 ---
 
@@ -16,18 +16,18 @@ Secretary: Jay Hunter
 
 ### Rest of Team
 
-* Alexander Strang
-* Benjamin Tran
-* Binara Wasala
+* Sara Alaei
+* Rafay Anwar
+* Zac Apelt
+* Yogansh Bhalla
 * Jet Garcia
+* Shwethank Nampalli
 * Josh Penner
 * Luke Pidgeon
 * Mac Rogers
-* Rafay Anwar
-* Sara Alaei
-* Shwethank Nampalli
-* Yogansh Bhalla
-* Zac Apelt
+* Alexander Strang
+* Benjamin Tran
+* Binara Wasala
 
 ## 2023 Executive Team
 
@@ -42,7 +42,6 @@ Secretary: Reuben Richardson
 ### Rest of Team
 
 * Alnmad Alnmad
-* Benjamin Tran (Elected to fill casual vacancy in April)
 * Ella Bazin (Resigned in July)
 * Shanker Dorairajan
 * Jet Garcia
@@ -52,6 +51,7 @@ Secretary: Reuben Richardson
 * Francisco Prado
 * Slater Sammut
 * Hokul Srikanthan (Resigned in April)
+* Benjamin Tran (Elected to fill casual vacancy in April)
 * Miguel Valencia
 * Binara Wasala
 * Kelly Zhou
