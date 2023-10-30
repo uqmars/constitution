@@ -1,8 +1,33 @@
 # Current and Previous Executives of UQ MARS
 
-This document contains a list of all club executives since 2020.
+This document contains a list of all club executives on record.
 
 ---
+
+## 2024 Executive Team
+
+### T3
+
+President: Quinn Horton
+
+Treasurer: Slater Sammut
+
+Secretary: Jay Hunter
+
+### Rest of Team
+
+* Sara Alaei
+* Rafay Anwar
+* Zac Apelt
+* Yogansh Bhalla
+* Jet Garcia
+* Shwethank Nampalli
+* Josh Penner
+* Luke Pidgeon
+* Mac Rogers
+* Alexander Strang
+* Benjamin Tran
+* Binara Wasala
 
 ## 2023 Executive Team
 
@@ -26,6 +51,7 @@ Secretary: Reuben Richardson
 * Francisco Prado
 * Slater Sammut
 * Hokul Srikanthan
+* Benjamin Tran
 * Miguel Valencia
 * Binara Wasala
 * Kelly Zhou
