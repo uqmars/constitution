@@ -12,7 +12,8 @@ President: Quinn Horton
 
 Treasurer: Slater Sammut
 
-Secretary: Jay Hunter
+Secretary: Jay Hunter (Resigned at SGM, February 20, 2024)
+Secretary: Mac Rogers (Elected at SGM, February 20, 2024)
 
 ### Rest of Team
 
@@ -20,11 +21,14 @@ Secretary: Jay Hunter
 * Rafay Anwar
 * Zac Apelt
 * Yogansh Bhalla
-* Jet Garcia
-* Shwethank Nampalli
+* Jet Garcia (Resigned in January, 2024)
+* Jay Hunter (Elected at SGM, February 20, 2024)
+* Shwethank Nampalli (Resigned on February 22, 2024)
+* Ethan Ney (Elected at SGM, February 20, 2024)
 * Josh Penner
 * Luke Pidgeon
-* Mac Rogers
+* Phillip Reid (Appointed to fill casual vacancy, March 2, 2024)
+* Mac Rogers (Until SGM, February 20, 2024)
 * Alexander Strang
 * Benjamin Tran
 * Binara Wasala
