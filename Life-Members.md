@@ -4,5 +4,5 @@ Per Section 27 of the constitution, life membership is an honourary title that m
 
 | Full Name | Time of Award |
 | ----- | ----- |
-|   |   |
+| Tim Hadwen | 2024 SGM |
 
