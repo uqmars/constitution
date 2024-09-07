@@ -9,6 +9,7 @@ The constitution is enacted on this 12th day of October in the year 2023.
 1.1 Within this document, the following definitions shall be used:
 
 * "The Club" shall refer to the organisation to which this constitution applies.
+* "The University" shall refer to the University of Queensland.
 * "The Union" shall refer to the University of Queensland Union.
 * "Executive Team" shall refer to the team of members responsible for the administration and running of the club.
 * "T3 Officers" shall refer to those in the 'top 3' positions of the Executive Team (president, treasurer and secretary).
@@ -25,9 +26,9 @@ The constitution is enacted on this 12th day of October in the year 2023.
 
 3.1 The aims of The Club are:
 
-* to bring members of the UQ community interested in mechatronics and robotics together to form a dedicated club
+* to bring members of The University community interested in mechatronics and robotics together to form a dedicated club
 * to provide a relaxed club and environment where students who have no experience will be provided resources and the expertise of more experience, giving them the ability to build their own mechatronic systems
-* to provide a centralised group for enthusiasts who may wish to compete on behalf of UQ at higher level robotics competitions
+* to provide a centralised group for enthusiasts who may wish to compete on behalf of The University at higher level robotics competitions
 
 3.2 Non-Profit Clause: The assets and income of The Club shall be applied solely in furtherance of its abovementioned objects and no portion shall be distributed directly or indirectly to the members of The Club except as bona fide compensation for services rendered or expenses incurred on behalf of The Club.
 
@@ -35,9 +36,9 @@ The constitution is enacted on this 12th day of October in the year 2023.
 
 4.1 Membership is open to:
 
-* any student of the University of Queensland
-* any University of Queensland academic staff member
-* any other members of the University or wider community interested in The Club's activities
+* any student of The University
+* any academic staff member of The University
+* any other members of The University or wider community interested in The Club's activities
 
 4.2 The Club shall have not less than thirty (30) financial members to remain a subsidised club.
 
@@ -288,7 +289,7 @@ the meeting within fourteen (14) days of:
 
 25.1 In the event that The Club is ever acquired by another Club/Society or enters into a subsidiary affiliation agreement, this shall occur for an up-front cost no less than one hundred thousand (100,000) Australian dollars to be channelled to be used in-line with the purpose of The Club.
 
-25.2 From the date that such acquisition / agreement is finalised, the name of this Club/Society shall be changed to the "UQ Robotics and Technology Society", otherwise abbreviated to "UQ RATS" for a period no less than three (3) years.
+25.2 From the date that such acquisition / agreement is finalised, the name of The Club shall be changed to the "UQ Robotics and Technology Society", otherwise abbreviated to "UQ RATS" for a period no less than three (3) years.
 
 ## 26 DOCUMENTS
 
