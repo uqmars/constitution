@@ -24,7 +24,7 @@ Within this document, the following definitions will be used:
 
 - [Section 1: Bodies of The Club](#section-1-bodies-of-the-club)
 - [Section 2: Amendments to Regulations](#section-2-amendments-to-regulations)
-- [Section 3: General Meetings and Executive Elections](#section-3-general-meetings-end-executive-elections)
+- [Section 3: General Meetings and Executive Elections](#section-3-general-meetings-and-executive-elections)
 
 ---
 
