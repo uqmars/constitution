@@ -13,7 +13,7 @@ The constitution is enacted on this 10th day of October in the year 2024.
 * "The Union" shall refer to the University of Queensland Union.
 * "Executive Team" shall refer to the team of members responsible for the administration and running of the club.
 * "Executive" shall refer to any elected or appointed member of the Executive Team.
-* "T3 Officers" shall refer to those in the 'top 3' positions of the Executive Team (president, treasurer and secretary).
+* "T3 Officers" shall refer to those Executives in the 'top 3' positions of the Executive Team (president, treasurer and secretary).
 * "Club Member" shall refer to an individual belonging to the community of The Club who is eligible to vote on matters at General Meetings.
 * "Financial Member" shall refer to a Club Member who is also required to pay a membership fee.
 * "Calendar Year" shall refer to the period of time that runs from January 1 through to December 31.
@@ -52,7 +52,7 @@ The constitution is enacted on this 10th day of October in the year 2024.
 
 ## 5 MEMBERSHIP FEES
 
-5.1 The membership fees shall be such sum, as the Executive Team shall from time to time at any meeting of the Executive Team so determine, but shall not be less than two (2) dollars per member per annum.
+5.1 The membership fees shall be such sum, as the Executive Team shall from time to time at any meeting of the Executive Team so determine, but shall not be less than two (2) dollars per Financial Member per annum.
 
 5.2 The membership fees shall be payable upon joining The Club.
 
@@ -84,27 +84,27 @@ The constitution is enacted on this 10th day of October in the year 2024.
 
 8.1 The Executive Team of The Club shall consist of the T3 Officers, all of whom shall be Financial Members, and such number of other Financial Members as the Members at any general meeting may from time to time elect, provided it meets the requirements imposed by 8.4. All the aforestated office bearers must be members of The Union. Membership of the Executive Team shall not be restricted other than by being a member of The Union and a Financial Member.
 
-8.2 At the annual general meeting of The Club, all the members of the Executive Team for the time being shall retire from office, but shall be eligible upon nomination for re-election.
+8.2 At the annual general meeting of The Club, all Executives for the time being shall retire from office, but shall be eligible upon nomination for re-election.
 
-8.3 The election of T3 Officers and other members of the Executive Team shall take place in the following manner –
+8.3 The election of T3 Officers and other Executives shall take place in the following manner –
 
-* any two (2) Club Members shall be at liberty to nominate any Club Member to serve as an officer or other member of the Executive Team.
+* any two (2) Club Members shall be at liberty to nominate any Club Member to serve as an Executive.
 * the nomination, which shall clearly identify the Club Member, the Club Member's proposer (if different to the Club Member), and seconder, shall be lodged with the secretary at least one (1) hour before the general meeting at which the election is to take place.
 * at the commencement of such meeting, nominations may be taken from those present provided that they are seconded by someone else in attendance.
 * any informality or irregularity in the elections must be brought to the attention of the Clubs and Societies Administration Officer within fourteen (14) days of the elections.
 * in the case of a secret ballot, the assembly will select a returning officer, who cannot be nominated for membership of the Executive Team and who shall be responsible for ensuring the orderly running of elections.
 
-8.4 There shall at no time be less than three (3) members on the Executive Team (the T3 Officers), and no more than $\min{\left(Q, \left\lfloor \sqrt{\frac{69}{42}n} \right\rfloor\right)}$ members on the Executive Team where $Q$ and $n$ represent the quorum and number of Financial Members of The Club as of the beginning of the latest Annual General Meeting (including the one in session, should this be the case).
+8.4 There shall at no time be less than three (3) Executives (the T3 Officers), and no more than $\min{\left(Q, \left\lfloor \sqrt{\frac{69}{42}n} \right\rfloor\right)}$ Executives where $Q$ and $n$ represent the quorum and number of Financial Members of The Club as of the beginning of the latest Annual General Meeting (including the one in session, should this be the case).
 
 ## 9 RESIGNATION OR REMOVAL FROM OFFICE OF EXECUTIVE
 
 9.1 Any Executive may resign from membership of the Executive Team at any time by giving notice in writing to the secretary but such resignation shall take effect at the time such notice is received by the secretary unless a later date is specified in the notice when it shall take effect on that later date.
 
-9.2 In the event that the resigning Executive is a T3 Officer, the secretary will be required to call a general meeting to be held within twenty-eight (28) days of receiving the resignation. In this case, the member shall hold their role until a replacement is elected at the general meeting.
+9.2 In the event that the resigning Executive is a T3 Officer, the secretary will be required to call a general meeting to be held within twenty-eight (28) days of receiving the resignation. In this case, the Executive shall hold their role until a replacement is elected at the general meeting.
 
 9.3 Any Executive may be removed from office at a general meeting of The Club where that Executive shall be given the opportunity to fully present the Executive's case.
 
-9.4 Should any Executive, other than the T3 Officers, fail to attend at least three (3) consecutive meetings of the Executive Team, they may be removed from office at the next meeting of the Executive Team where that Executive shall be given the opportunity to fully present their case. In the event that they are removed under this clause, a notice must be sent to all current members advising of the decision.
+9.4 Should any Executive, other than the T3 Officers, fail to attend at least three (3) consecutive meetings of the Executive Team, they may be removed from office at the next meeting of the Executive Team where that Executive shall be given the opportunity to fully present their case. In the event that they are removed under this clause, a notice must be sent to all current Club Members advising of the decision.
 
 9.5 The question of removal shall be determined by a vote of 60% majority of the members present at such a meeting and must be endorsed by the Clubs and Societies committee.
 
@@ -129,9 +129,9 @@ The constitution is enacted on this 10th day of October in the year 2024.
 
 11.2 The Executive Team may exercise all the power of The Club
 
-* to raise or secure the payment of money in such manner as the members of The Club may think fit and secure the payment or performance of any debt, liability or other engagement incurred or to be entered into by The Club in any way.
+* to raise or secure the payment of money in such manner as the Club Members may think fit and secure the payment or performance of any debt, liability or other engagement incurred or to be entered into by The Club in any way.
 
-11.3 The Executive Team will take full responsibility for all publications produced by The Club or by any of its members.
+11.3 The Executive Team will take full responsibility for all publications produced by The Club or by any Club Members.
 
 ## 12 MEETINGS OF EXECUTIVE TEAM
 
@@ -149,7 +149,7 @@ The constitution is enacted on this 10th day of October in the year 2024.
 
 12.7 However, questions arising at any meeting of the Executive Team shall be decided by a majority of votes and, in the case of equality of votes, the question shall be deemed to be decided in the negative.
 
-12.8 An Executive shall not vote in respect of any matter in which the member is financially interested, or any matter arising thereout, and if the member does so vote the member's vote shall not be counted.
+12.8 An Executive shall not vote in respect of any matter in which the Executive is financially interested, or any matter arising thereout, and if the Executive does so vote the Executive's vote shall not be counted.
 
 12.9 Not less than fourteen (14) days notice shall be given by the secretary to Executives of any special meeting of the Executive Team.
 
@@ -217,18 +217,18 @@ The constitution is enacted on this 10th day of October in the year 2024.
 the meeting within fourteen (14) days of:
 
 * being directed to do so by the Executive Team
-* being given a requisition in writing signed by not less than one-third (1/3) of the members presently on the Executive Team or from ordinary members not less than double the number of members presently on the Executive Team plus one (1)
+* being given a requisition in writing signed by not less than one-third (1/3) of the members presently on the Executive Team or from Club Members not less than double the number of members presently on the Executive Team plus one (1)
 * being given a notice in writing of an intention to appeal against the decision of the Executive Team to reject an application for membership or to terminate the membership of any person
 
 18.2 A requisition mentioned in subsection 18.1 shall clearly state the reasons why such special general meeting is being convened and the nature of the business to be transacted thereat.
 
 ## 19 QUORUM AT GENERAL MEETING
 
-19.1 At any general meeting the number of members required to constitute a quorum shall be equal to $\left\lceil\min{\left(0.15n + 1, \frac{\pi}{e-1}\sqrt{n}\right)}\right\rceil$, where $n$ is the number of current financial members, $\pi\approx3.1415...$ is the circle constant, and $e\approx2.718...$ is Euler's number.
+19.1 At any general meeting the number of Club Members required to constitute a quorum shall be equal to $\left\lceil\min{\left(0.15n + 1, \frac{\pi}{e-1}\sqrt{n}\right)}\right\rceil$, where $n$ is the number of current Financial Members, $\pi\approx3.1415...$ is the circle constant, and $e\approx2.718...$ is Euler's number.
 
 ## 20 NOTICE OF GENERAL MEETING
 
-20.1 The secretary shall convene at least one general meeting of The Club per financial year by giving not less than fourteen (14) days notice of any such meeting to the members of The Club.
+20.1 The secretary shall convene at least one general meeting of The Club per financial year by giving not less than fourteen (14) days notice of any such meeting to the Club Members.
 
 20.2 The manner by which such notice shall be given shall be determined by the Executive Team.
 
@@ -238,9 +238,9 @@ the meeting within fourteen (14) days of:
 
 21.1 Unless otherwise provided by these rules, at every general meeting –
 
-* the president shall preside as chairperson, or if there is no president, or if the president is not present within fifteen (15) minutes after the time appointed for the holding of the meeting or is unwilling to act, another T3 Officer shall be chosen as chairperson or if none of the T3 Officers are present or willing to act then the members present shall elect one (1) of their number to be chairperson of the meeting
+* the president shall preside as chairperson, or if there is no president, or if the president is not present within fifteen (15) minutes after the time appointed for the holding of the meeting or is unwilling to act, another T3 Officer shall be chosen as chairperson or if none of the T3 Officers are present or willing to act then the Club Members present shall elect one (1) of their number to be chairperson of the meeting
 * the chairperson shall maintain order and conduct the meeting in a proper and orderly manner
-* every question, matter or resolution shall be decided by a majority of votes of the members present
+* every question, matter or resolution shall be decided by a majority of votes of the Club Members present
 * every resolution must be minuted.
 
 ## 22 ALTERATION OF RULES
