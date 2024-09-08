@@ -1,6 +1,6 @@
 # Constitution of UQ Mechatronics and Robotics Society
 
-The constitution is enacted on this 12th day of October in the year 2023.
+The constitution is enacted on this 10th day of October in the year 2024.
 
 ---
 
@@ -16,6 +16,7 @@ The constitution is enacted on this 12th day of October in the year 2023.
 * "T3 Officers" shall refer to those in the 'top 3' positions of the Executive Team (president, treasurer and secretary).
 * "Club Member" shall refer to an individual belonging to the community of The Club who is eligible to vote on matters at General Meetings.
 * "Financial Member" shall refer to a Club Member who is also required to pay a membership fee.
+* "Calendar Year" shall refer to the period of time that runs from January 1 through to December 31.
 
 ## 2 NAME
 
@@ -29,7 +30,7 @@ The constitution is enacted on this 12th day of October in the year 2023.
 
 3.1 The aims of The Club are:
 
-* to bring members of The University community interested in mechatronics and robotics together to form a dedicated club
+* to bring members of The University community interested in or studying mechatronics and robotics together to form a dedicated society
 * to provide a relaxed club and environment where students who have no experience will be provided resources and the expertise of more experience, giving them the ability to build their own mechatronic systems
 * to provide a centralised group for enthusiasts who may wish to compete on behalf of The University at higher level robotics competitions
 
@@ -65,7 +66,7 @@ The constitution is enacted on this 12th day of October in the year 2023.
 
 * fails to comply with any of the provisions of these rules
 * has membership fees in arrears
-* conducts himself or herself in a manner considered to be injurious or prejudicial to the character or interests of The Club,
+* conducts themself in a manner considered to be injurious or prejudicial to the character or interests of The Club,
 
     the Executive Team shall consider whether the Club Member's membership shall be terminated.
 
@@ -81,7 +82,7 @@ The constitution is enacted on this 12th day of October in the year 2023.
 
 ## 8 MEMBERSHIP OF EXECUTIVE TEAM
 
-8.1 The Executive Team of The Club shall consist of the T3 Officers, all of whom shall be Financial Members, and such number of other Financial Members as the Members at any general meeting may from time to time elect, provided it meets the requiremments imposed by 8.4. All the aforestated office bearers must be members of The Union. Membership of the Executive Team shall not be restricted other than by being a member of The Union and a Financial Member.
+8.1 The Executive Team of The Club shall consist of the T3 Officers, all of whom shall be Financial Members, and such number of other Financial Members as the Members at any general meeting may from time to time elect, provided it meets the requirements imposed by 8.4. All the aforestated office bearers must be members of The Union. Membership of the Executive Team shall not be restricted other than by being a member of The Union and a Financial Member.
 
 8.2 At the annual general meeting of The Club, all the members of the Executive Team for the time being shall retire from office, but shall be eligible upon nomination for re-election.
 
@@ -219,7 +220,7 @@ the meeting within fourteen (14) days of:
 * being given a requisition in writing signed by not less than one-third (1/3) of the members presently on the Executive Team or from ordinary members not less than double the number of members presently on the Executive Team plus one (1)
 * being given a notice in writing of an intention to appeal against the decision of the Executive Team to reject an application for membership or to terminate the membership of any person
 
-18.2 A requisition mentioned in subsection 17.1 shall clearly state the reasons why such special general meeting is being convened and the nature of the business to be transacted thereat.
+18.2 A requisition mentioned in subsection 18.1 shall clearly state the reasons why such special general meeting is being convened and the nature of the business to be transacted thereat.
 
 ## 19 QUORUM AT GENERAL MEETING
 
@@ -288,7 +289,7 @@ the meeting within fourteen (14) days of:
 
 ## 25 ACQUISITION CLAUSE
 
-25.1 In the event that The Club is ever acquired by another Club/Society or enters into a subsidiary affiliation agreement, this shall occur for an up-front cost no less than one hundred thousand (100,000) Australian dollars to be channelled to be used in-line with the purpose of The Club.
+25.1 In the event that The Club is ever acquired by or enters into a subsidiary affiliation agreement with another Club/Society, this shall occur for an up-front cost no less than one hundred thousand (100,000) Australian dollars to be channelled to be used in-line with the purpose of The Club.
 
 25.2 From the date that such acquisition / agreement is finalised, the name of The Club shall be changed to the "UQ Robotics and Technology Society", otherwise abbreviated to "UQ RATS" for a period no less than three (3) years.
 
@@ -300,7 +301,7 @@ the meeting within fourteen (14) days of:
 
 ## 27 LIFE MEMBERSHIP
 
-27.1 The honourary title of Life Member may be presented to former Executives via special resolution at a general meeting of The Club. This title is intended to honour those that have made significant contributions to The Club and have since remained close to it.
+27.1 The honorary title of Life Member may be presented to former Executives via special resolution at a general meeting of The Club. This title is intended to honour those that have made significant contributions to The Club and have since remained close to it.
 
 27.2 Such resolution is bound by the same rules as are outlined for special resolutions in section 22 regarding the alteration of rules.
 
