@@ -2,7 +2,9 @@
 
 This revision of the regulations is enacted and valid as of this 10th day of October, 2024.
 
-These regulations are supplementary to The Constitution. In the event that there are any contradictions between these Regulations and The Constitution, then The Constitution shall take precedence.
+These regulations are supplementary to The Constitution, with the purpose to standardise the interpretation of The Constitution. Any Regulations created should have little to no impact upon Club Members who do not belong to the Management Committee outside that which The Constitution already impacts.
+
+In the event that there are any contradictions between these Regulations and The Constitution, then The Constitution shall take precedence. In such a case, these Regulations should be revised.
 
 ---
 
@@ -20,7 +22,9 @@ Within this document, the following definitions will be used:
 
 ## Sections found in the Regulations
 
-- [Section 1: Bodies of The Club](#section-1:-bodies-of-the-club)
+- [Section 1: Bodies of The Club](#section-1-bodies-of-the-club)
+- [Section 2: Amendments to Regulations](#section-2-amendments-to-regulations)
+- [Section 3: General Meetings and Executive Elections](#section-3-general-meetings-end-executive-elections)
 
 ---
 
@@ -154,12 +158,12 @@ Within this document, the following definitions will be used:
 
 ## 7 Robotics Club Management Team
 
-6.1 The Robotics Club Management Team (hereon referred to as the "Club Team") are a body responsible for establishing and maintatining teams and initiatives that have the goal to:
+7.1 The Robotics Club Management Team (hereon referred to as the "Club Team") are a body responsible for establishing and maintatining teams and initiatives that have the goal to:
 
 - provide Club Members with industry-ready technical experiences
 - provide opportunities for Club Members to compete at higher level robotics competitions
 
-6.2 Membership of the Society Team shall be made up of:
+7.2 Membership of the Society Team shall be made up of:
 
 - Vice President (Robotics)
 - Projects Lead
@@ -167,4 +171,38 @@ Within this document, the following definitions will be used:
 - Robowars Technical Lead
 - Any such number of appointed Officers
 
-6.3 The appointment of Officers of the Club Team shall occur through recommendation by the Club Team and subsequent approval from the T5 Officers.
+7.3 The appointment of Officers of the Club Team shall occur through recommendation by the Club Team and subsequent approval from the T5 Officers.
+
+# Section 2: Amendments to Regulations
+
+## 8 Amendments to the Regulations
+
+8.1 Amendments to The Regulations can be proposed with no less than seven (7) days notice by members of the Executive Team for the Secretary to include as a motion at a quorate meeting of the Executive Team, which can be passed by simple majority.
+
+8.2 Amendments to The Regulations can be proposed with no less than seven (7) days notice by members of the Martian Council for the Secretary to include as a motion for a quorate meeting of the Martian Council, which can be passed through unanimous vote.
+
+8.3 Amendments to The Regulations can be proposed by Club Members as a Special Resolution to be discussed at a General Meeting in line with The Constitution.
+
+8.4 When Amendments are made, it is the duty of the Secretary to notify all current members of the Management Committee of the update.
+
+8.5 Amendments to the Regulations shall not take effect until the closure of the meeting in which they are passed.
+
+# Section 3: General Meetings and Executive Elections
+
+## 9 Elections of the Executive Team
+
+9.1 At the Annual General Meeting of The Club, the method by which the Executive Team is elected shall be that of a secret ballot.
+
+9.2 The secret balloting system to be followed shall be that of 'Instant-Runoff Voting'.
+
+9.3 Where there are at most as many nominees for a role as there are open positions, the Returning Officer can, without ballot, declare those candidates successful.
+
+## 10 Election of the Returning Officer
+
+10.1 Due to 9.1, a Returning Officer must be elected by the assembly to oversee all elections of the Executive Team, who can be neither a nominee for the Executive Team, nor a seconder of any nominee.
+
+10.2 The Returning Officer does not need to be a Club Member.
+
+10.3 Provided that it is communicated at the time of election, the Returning Officer may be elected for a period of up to thirteen (13) calendar months to serve as the Returning Officer for all General Meetings that may occur within that time.
+
+10.4 Should a Returning Officer elected in advance as per 9.3 become ineligible to serve or not be present at a General Meeting, a new one shall be elected in their place.
