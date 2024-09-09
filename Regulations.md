@@ -197,12 +197,46 @@ Within this document, the following definitions will be used:
 
 9.3 Where there are at most as many nominees for a role as there are open positions, the Returning Officer can, without ballot, declare those candidates successful.
 
-## 10 Election of the Returning Officer
+## 10 Order of Elections
 
-10.1 Due to 9.1, a Returning Officer must be elected by the assembly to oversee all elections of the Executive Team, who can be neither a nominee for the Executive Team, nor a seconder of any nominee.
+10.1 At a General Meeting of The Club where there are vacancies on the Executive Team, the order of the elections of the Executive Team shall be done by body in the following order:
 
-10.2 The Returning Officer does not need to be a Club Member.
+1. T3 Officers
+2. T5 Officers
+3. Executive Team
 
-10.3 Provided that it is communicated at the time of election, the Returning Officer may be elected for a period of up to thirteen (13) calendar months to serve as the Returning Officer for all General Meetings that may occur within that time.
+10.2 Where a role resides in multiple bodies, they shall be elected as part of the first body to which they belong.
 
-10.4 Should a Returning Officer elected in advance as per 9.3 become ineligible to serve or not be present at a General Meeting, a new one shall be elected in their place.
+10.3 The order of election of the T3 Officers shall be as follows:
+
+1. President
+2. Secretary
+3. Treasurer
+
+10.4 The order of election of the T5 Officers shall be in descending order of the number of eligible nominations for the role as of the closure of advance nominations, with any ties being determined by the following order:
+
+1. Vice President (Mechatronics)
+2. Vice President (Robotics)
+
+10.5 The order of election of the Executive Team shall be in descending order of the number of eligible nominations for the role as of the closure of advance nominations, with any ties being determined by the following order:
+
+1. Marketing Lead
+2. Partnerships Lead
+3. Technical Lead
+4. Competitions Lead
+5. Workshops Lead
+6. Projects Lead
+7. Outreach Lead
+8. Events Lead
+
+10.6 In this section, "advance nominations" refers to the nominations that can be submitted in advance of the general meeting and excludes those that would be presented from the floor.
+
+## 11 Election of the Returning Officer
+
+11.1 Due to 9.1, a Returning Officer must be elected by the assembly to oversee all elections of the Executive Team, who can be neither a nominee for the Executive Team, nor a seconder of any nominee.
+
+11.2 The Returning Officer does not need to be a Club Member.
+
+11.3 Provided that it is communicated at the time of election, the Returning Officer may be elected for a period of up to thirteen (13) calendar months to serve as the Returning Officer for all General Meetings that may occur within that time.
+
+11.4 Should a Returning Officer elected in advance as per 9.3 become ineligible to serve or not be present at a General Meeting, a new one shall be elected in their place.
