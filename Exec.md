@@ -22,7 +22,8 @@ Secretary: Mac Rogers (Elected at SGM, February 20, 2024)
 * Zac Apelt
 * Yogansh Bhalla
 * Jet Garcia (Resigned in January, 2024)
-* Jay Hunter (Elected at SGM, February 20, 2024)
+* Jay Hunter (Elected at SGM, February 20, 2024; Resigned August 18, 2024)
+* Oscar Lloyd (Appointed to fill casual vacancy, September 11, 2024)
 * Shwethank Nampalli (Resigned on February 22, 2024)
 * Ethan Ney (Elected at SGM, February 20, 2024)
 * Josh Penner
