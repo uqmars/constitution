@@ -139,7 +139,7 @@ Within this document, the following definitions will be used:
 
 5.12 An exclusion to 5.6, 5.7, and 5.8 shall be made for the representative for "First Year Students" to allow for legitimate first years to hold the role, for which position nominations shall open on the second Sunday before classes end for the mid-semester break in Semester One as outlined by the Academic Calendar of The University, and close on the day that classes resume following the mid-semester break.
 
-5.13 Election of the representative for "First Year Students" shall take place on the first meeting of the Executive Team following the closure of nominations, with their term to commence from the first meeting of the Martian Council following their election.
+5.13 Election of the representative for "First Year Students" shall take place on the first meeting of the Executive Team following the closure of nominations, with their term to commence from the first meeting of the Martian Council following their election. Their term shall end when their successor commences the following year in line with these Regulations.
 
 ## 6 MARS Central Management Team
 
