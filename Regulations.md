@@ -119,9 +119,9 @@ Within this document, the following definitions will be used:
     - First Year Students
     - Postgraduate Students
 
-5.3 The representative positions cannot be members of the Executive Team.
+5.3 Members of the Executive Team shall be ineligible to nominate for a representative role on the council, and representative members of the Martian Council shall only be eligible to nominate for a position on the Executive Team at an Annual General Meeting of The Association.
 
-5.4 The term of each representative shall be One (1) Calendar Year between elections.
+5.4 The term of each representative shall be One (1) Calendar Year.
 
 5.5 A limit of Two (2) terms shall be imposed upon representatives of the Martian Council.
 
@@ -137,7 +137,9 @@ Within this document, the following definitions will be used:
 
 5.11 Meetings of the Martian Council shall be held once per calendar month, with at least seven (7) days notice given by the Secretary. The quorum at such a meeting shall be at least one (1) T3 Officer plus a simple majority of the representative roles.
 
-<!-- Further consider first year, may need alternative arrangements -->
+5.12 An exclusion to 5.6, 5.7, and 5.8 shall be made for the representative for "First Year Students" to allow for legitimate first years to hold the role, for which position nominations shall open on the second Sunday before classes end for the mid-semester break in Semester One as outlined by the Academic Calendar of The University, and close on the day that classes resume following the mid-semester break.
+
+5.13 Election of the representative for "First Year Students" shall take place on the first meeting of the Executive Team following the closure of nominations, with their term to commence from the first meeting of the Martian Council following their election.
 
 ## 6 MARS Central Management Team
 
