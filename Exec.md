@@ -4,6 +4,29 @@ This document contains a list of all club executives on record.
 
 ---
 
+## 2025 Executive Team
+
+### T3
+
+President: Quinn Horton
+
+Secretary: Binara Wasala
+
+Treasurer: Samantha Krause
+
+### Rest of Team
+
+* Zac Apelt
+* Alana Cawthorne
+* Joseph Hatcliff
+* Shaariq Jaldin
+* Oscar Lloyd
+* Erin McGrath
+* Ethan Ney
+* Phillip Reid
+* Slater Sammut
+* Ganesh Srinivasa
+
 ## 2024 Executive Team
 
 ### T3
@@ -13,6 +36,7 @@ President: Quinn Horton
 Treasurer: Slater Sammut
 
 Secretary: Jay Hunter (Resigned at SGM, February 20, 2024)
+
 Secretary: Mac Rogers (Elected at SGM, February 20, 2024)
 
 ### Rest of Team
