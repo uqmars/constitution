@@ -112,10 +112,9 @@ Within this document, the following definitions will be used:
 - Secretary
 - Treasurer
 - One (1) Association Member representing each of the following demographics:
-    - Electrical Engineering Students
+    - Electronics Engineering Students
     - Mechanical Engineering Students
-    - Software Engineering Students
-    - Female Students
+    - Female and Gender-Diverse Students
     - First Year Students
     - Postgraduate Students
 
