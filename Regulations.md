@@ -206,6 +206,8 @@ Within this document, the following definitions will be used:
 
 9.5 Amendments to the Regulations shall not take effect until the closure of the meeting in which they are passed.
 
+9.6 An exception shall be made to 9.1 and 9.2 with regards to amendments to this part 9 describing alterations to the Regulations. Amendments to this section shall only be passed via special resolution at a General Meeting.
+
 # Section 3: General Meetings and Executive Elections
 
 ## 10 Elections of the Executive Team
