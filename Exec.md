@@ -128,3 +128,109 @@ This document contains a list of all club executives on record.
 - Matthew Cook
 - Nicole Harding
 - Anastacia Laczko
+
+## 2019 Executive Team
+
+### T3
+
+- ***President:*** Cameron Stroud
+- ***Secretary:*** Raghav Mishra
+- ***Treasurer:*** Bruce Xu
+
+### Rest of Team
+
+- Andrew Czarnuszewicz
+- Anastacia Laczko
+- Juan Palacio Lustra
+
+## 2018 Executive Team
+
+### T4
+
+- ***President:*** Bradley King
+- ***Vice President:*** Andrew Czarnuszewicz
+- ***Secretary:*** Lachlan Healey
+- ***Treasurer:*** Anna Truffet
+
+### Rest of Team
+
+*None / Unknown*
+
+## 2017 Executive Team
+
+### T4
+
+- ***President:*** Tim Hadwen
+- ***Vice President:*** Iain Rudge
+- ***Secretary:*** Nicholas Buckeridge
+- ***Treasurer:*** Declan Vong
+
+### Rest of Team
+
+- Ryan Boyle
+
+## 2016 Executive Team
+
+### T4
+
+- ***President:*** Tim Hadwen
+- ***Vice President:*** Iain Rudge
+- ***Secretary:*** Michael Smith
+- ***Treasurer:*** Aiden Harvey
+
+### Rest of Team
+
+- Ryan Boyle
+- Kieren Chiang
+- Cobus Hoffmann
+- Liam McBride-Kelly
+
+## 2015 Executive Team
+
+### T3
+
+- ***President:*** Tharun Sonti
+- ***Secretary:*** Unknown
+- ***Treasurer:*** William Wu
+
+### Rest of Team
+
+- Lex Van Cooten
+- Peter Photinos
+- Fabian Vasuain
+
+## 2014 Executive Team
+
+### T3
+
+- ***President:*** Peter Photinos
+- ***Secretary:*** Will Toohey
+- ***Treasurer:*** William Wu
+
+### Rest of Team
+
+- Lex Van Cooten
+
+## 2013 Executive Team
+
+### T3
+
+- ***President:*** Kit Ham
+- ***Secretary:*** Unknown
+- ***Treasurer:*** Unknown
+
+### Rest of Team
+
+- Lex Van Cooten
+
+## 2012 Executive Team
+
+### T3
+
+- ***President:*** Erin McColl
+- ***Secretary:*** Kit Ham
+- ***Treasurer:*** Unknown
+
+### Rest of Team
+
+*None / Unknown*
