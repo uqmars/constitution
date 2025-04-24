@@ -143,6 +143,8 @@ This document contains a list of all club executives on record.
 - Anastacia Laczko
 - Juan Palacio Lustra
 
+***This marks the point in history where UQ Robotics became the UQ Mechatronics and Robotics Society (UQ MARS)***
+
 ## 2018 Executive Team
 
 ### T4
