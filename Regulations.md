@@ -112,10 +112,9 @@ Within this document, the following definitions will be used:
 - Secretary
 - Treasurer
 - One (1) Association Member representing each of the following demographics:
-    - Electrical Engineering Students
+    - Electronics Engineering Students
     - Mechanical Engineering Students
-    - Software Engineering Students
-    - Female Students
+    - Female and Gender-Diverse Students
     - First Year Students
     - Postgraduate Students
 
@@ -205,6 +204,8 @@ Within this document, the following definitions will be used:
 9.4 When Amendments are made, it is the duty of the Secretary to notify all current members of the Management Committee of the update.
 
 9.5 Amendments to the Regulations shall not take effect until the closure of the meeting in which they are passed.
+
+9.6 An exception shall be made to 9.1 and 9.2 with regards to amendments to this part 9 describing alterations to the Regulations. Amendments to this section shall only be passed via special resolution at a General Meeting.
 
 # Section 3: General Meetings and Executive Elections
 
