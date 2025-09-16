@@ -23,8 +23,7 @@ Within this document, the following definitions will be used:
 ## Sections found in the Regulations
 
 - [Section 1: Bodies of The Association](#section-1-bodies-of-the-association)
-- [Section 2: Amendments to Regulations](#section-2-amendments-to-regulations)
-- [Section 3: General Meetings and Executive Elections](#section-3-general-meetings-and-executive-elections)
+- [Section 2: General Meetings and Executive Elections](#section-2-general-meetings-and-executive-elections)
 
 ---
 
@@ -190,55 +189,38 @@ Within this document, the following definitions will be used:
 - Any such number of appointed Officers to support the Leads
 
 8.3 The appointment of Officers of the Club Team shall occur through recommendation by the Club Team and subsequent approval from the T5 Officers.
+# Section 2: General Meetings and Executive Elections
 
-# Section 2: Amendments to Regulations
+## 9 Elections of the Executive Team
 
-## 9 Amendments to the Regulations
+9.1 At the Annual General Meeting of The Association, the method by which the Executive Team is elected shall be that of a secret ballot.
 
-9.1 Amendments to The Regulations can be proposed with no less than seven (7) days notice by members of the Executive Team for the Secretary to include as a motion at a quorate meeting of the Executive Team, which can be passed by simple majority.
+9.2 The secret balloting system to be followed shall be that of 'Instant-Runoff Voting'.
 
-9.2 Amendments to The Regulations can be proposed with no less than seven (7) days notice by members of the Martian Council for the Secretary to include as a motion for a quorate meeting of the Martian Council, which can be passed through unanimous vote.
+9.3 Where there are at most as many nominees for a role as there are open positions, the Returning Officer can, without ballot, declare those candidates successful.
 
-9.3 Amendments to The Regulations can be proposed by Association Members as a Special Resolution to be discussed at a General Meeting in line with The Constitution.
+## 10 Order of Elections
 
-9.4 When Amendments are made, it is the duty of the Secretary to notify all current members of the Management Committee of the update.
-
-9.5 Amendments to the Regulations shall not take effect until the closure of the meeting in which they are passed.
-
-9.6 An exception shall be made to 9.1 and 9.2 with regards to amendments to this part 9 describing alterations to the Regulations. Amendments to this section shall only be passed via special resolution at a General Meeting.
-
-# Section 3: General Meetings and Executive Elections
-
-## 10 Elections of the Executive Team
-
-10.1 At the Annual General Meeting of The Association, the method by which the Executive Team is elected shall be that of a secret ballot.
-
-10.2 The secret balloting system to be followed shall be that of 'Instant-Runoff Voting'.
-
-10.3 Where there are at most as many nominees for a role as there are open positions, the Returning Officer can, without ballot, declare those candidates successful.
-
-## 11 Order of Elections
-
-11.1 At a General Meeting of The Association where there are vacancies on the Executive Team, the order of the elections of the Executive Team shall be done by body in the following order:
+10.1 At a General Meeting of The Association where there are vacancies on the Executive Team, the order of the elections of the Executive Team shall be done by body in the following order:
 
 1. T3 Officers
 2. T5 Officers
 3. Executive Team
 
-11.2 Where a role resides in multiple bodies, they shall be elected as part of the first body to which they belong.
+10.2 Where a role resides in multiple bodies, they shall be elected as part of the first body to which they belong.
 
-11.3 The order of election of the T3 Officers shall be as follows:
+10.3 The order of election of the T3 Officers shall be as follows:
 
 1. President
 2. Secretary
 3. Treasurer
 
-11.4 The order of election of the T5 Officers shall be in descending order of the number of eligible nominations for the role as of the closure of advance nominations, with any ties being determined by the following order:
+10.4 The order of election of the T5 Officers shall be in descending order of the number of eligible nominations for the role as of the closure of advance nominations, with any ties being determined by the following order:
 
 1. Vice President (Mechatronics)
 2. Vice President (Robotics)
 
-11.5 The order of election of the Executive Team shall be in descending order of the number of eligible nominations for the role as of the closure of advance nominations, with any ties being determined by the following order:
+10.5 The order of election of the Executive Team shall be in descending order of the number of eligible nominations for the role as of the closure of advance nominations, with any ties being determined by the following order:
 
 1. Marketing Lead
 2. Partnerships Lead
@@ -249,14 +231,14 @@ Within this document, the following definitions will be used:
 7. Outreach Lead
 8. Events Lead
 
-11.6 In this section, "advance nominations" refers to the nominations that can be submitted in advance of the general meeting and excludes those that would be presented from the floor.
+10.6 In this section, "advance nominations" refers to the nominations that can be submitted in advance of the general meeting and excludes those that would be presented from the floor.
 
-## 12 Election of the Returning Officer
+## 11 Election of the Returning Officer
 
-12.1 Due to 9.1, a Returning Officer must be elected by the assembly to oversee all elections of the Executive Team, who can be neither a nominee for the Executive Team, nor a seconder of any nominee.
+11.1 Due to 9.1, a Returning Officer must be elected by the assembly to oversee all elections of the Executive Team, who can be neither a nominee for the Executive Team, nor a seconder of any nominee.
 
-12.2 The Returning Officer does not need to be a Association Member.
+11.2 The Returning Officer does not need to be a Association Member.
 
-12.3 Provided that it is communicated at the time of election, the Returning Officer may be elected for a period of up to thirteen (13) calendar months to serve as the Returning Officer for all General Meetings that may occur within that time.
+11.3 Provided that it is communicated at the time of election, the Returning Officer may be elected for a period of up to thirteen (13) calendar months to serve as the Returning Officer for all General Meetings that may occur within that time.
 
-12.4 Should a Returning Officer elected in advance as per 9.3 become ineligible to serve or not be present at a General Meeting, a new one shall be elected in their place.
+11.4 Should a Returning Officer elected in advance as per 9.3 become ineligible to serve or not be present at a General Meeting, a new one shall be elected in their place.
