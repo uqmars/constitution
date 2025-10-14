@@ -1,6 +1,6 @@
 # Constitution of UQ Mechatronics and Robotics Society
 
-This revision of the constitution is enacted and valid on this 10th day of October in the year 2024.
+This revision of the constitution is enacted and valid on this 7th day of October in the year 2025.
 
 ---
 
