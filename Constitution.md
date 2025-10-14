@@ -157,7 +157,7 @@ This revision of the constitution is enacted and valid on this 10th day of Octob
 
 12.11 The president shall preside as chairperson at every meeting of the Executive Team, or if there is no president, or if at any meeting the president is not present within ten (10) minutes after the time appointed for holding the meeting, another T3 Officer shall be chosen to be chairperson or if none of the T3 Officers are present at the meeting then the meeting shall lapse.
 
-12.12 If within fifteen (15) minutes from the time appointed for the commencement of a meeting of the Executive Team a quorum is not present, the meeting, if convened upon the requisition of Executives, shall lapse.
+12.12 If within thirty (30) minutes from the time appointed for the commencement of a meeting of the Executive Team a quorum is not present, the meeting, if convened upon the requisition of Executives, shall lapse.
 
 12.13 In any other case it shall stand adjourned to the same day in the next week at the same time and place or to such other day and at such other time and place as the Executive Team may determine, and if at the adjourned meeting a quorum is not present within half an hour from the time appointed for the meeting, the meeting shall lapse.
 
@@ -238,7 +238,7 @@ the meeting within fourteen (14) days of:
 
 21.1 Unless otherwise provided by these rules, at every general meeting –
 
-* the president shall preside as chairperson, or if there is no president, or if the president is not present within fifteen (15) minutes after the time appointed for the holding of the meeting or is unwilling to act, another T3 Officer shall be chosen as chairperson or if none of the T3 Officers are present or willing to act then the Association Members present shall elect one (1) of their number to be chairperson of the meeting
+* the president shall preside as chairperson, or if there is no president, or if the president is not present within thirty (30) minutes after the time appointed for the holding of the meeting or is unwilling to act, another T3 Officer shall be chosen as chairperson or if none of the T3 Officers are present or willing to act then the Association Members present shall elect one (1) of their number to be chairperson of the meeting
 * the chairperson shall maintain order and conduct the meeting in a proper and orderly manner
 * every question, matter or resolution shall be decided by a majority of votes of the Association Members present
 * every resolution must be minuted.
