@@ -254,7 +254,7 @@ the meeting within fourteen (14) days of:
 * of the Association Members who vote in person or (if proxies are allowed) by proxy at a meeting, not less than three quarters (3/4) vote in favour of the resolution; and
 * any additional requirements of the constitution relating to the passing of a special resolution have been met.
 
-22.4 A resolution is not to be considered to have been passed as a special resolution under sub-section (2) unless not less than twenty-one (21) days notice has been given in accordance with the rules to all Association Members specifying the intention to propose the resolution as a special resolution.
+22.4 A resolution is not to be considered to have been passed as a special resolution under sub-section (2) unless not less than fourteen (14) days notice has been given in accordance with the rules to all Association Members specifying the intention to propose the resolution as a special resolution.
 
 22.5 At any meeting at which a special resolution is submitted, a declaration by the chairperson that the resolution has been carried is conclusive proof of the fact unless a poll is demanded.
 
