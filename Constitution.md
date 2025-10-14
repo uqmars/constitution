@@ -91,7 +91,7 @@ This revision of the constitution is enacted and valid on this 10th day of Octob
 
 ## 8 MEMBERSHIP OF EXECUTIVE TEAM
 
-8.1 The Executive Team of The Association shall consist of the T3 Officers, all of whom shall be Financial Members, and such number of other Financial Members as the Members at any general meeting may from time to time elect, provided it meets the requirements imposed by 8.4. All the aforestated office bearers must be members of The Union. Membership of the Executive Team shall not be restricted other than by being a member of The Union and a Financial Member.
+8.1 The Executive Team of The Association shall consist of the T3 Officers, all of whom shall be Financial Members, and such number of other Financial Members as the Members at any general meeting may from time to time elect, provided it meets the requirements imposed by 8.4 and 8.5. All the aforestated office bearers must be members of The Union. Membership of the Executive Team shall not be restricted other than by being a member of The Union and a Financial Member.
 
 8.2 At the annual general meeting of The Association, all Executives for the time being shall retire from office, but shall be eligible upon nomination for re-election.
 
@@ -104,6 +104,8 @@ This revision of the constitution is enacted and valid on this 10th day of Octob
 * in the case of a secret ballot, the assembly will select a returning officer, who cannot be nominated for membership of the Executive Team and who shall be responsible for ensuring the orderly running of elections.
 
 8.4 There shall at no time be less than three (3) Executives (the T3 Officers), and no more than $\min{\left(Q, \left\lfloor \sqrt{\frac{69}{42}n} \right\rfloor\right)}$ Executives where $Q$ and $n$ represent the quorum and number of Financial Members of The Association as of the beginning of the latest Annual General Meeting (including the one in session, should this be the case).
+
+8.5 A person who has been a member for 3 years or more in total may not be nominated or elected as a member of the Executive Team.
 
 ## 9 RESIGNATION OR REMOVAL FROM OFFICE OF EXECUTIVE
 
