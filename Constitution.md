@@ -22,7 +22,7 @@ This revision of the constitution is enacted and valid on this 10th day of Octob
 
 2.1 The Association shall be called the "UQ Mechatronics and Robotics Society Inc.", otherwise abbreviated to "UQ MARS".
 
-2.2 The Association is an incorporated association, recognised by the Australian Office of Fair Trading under the Associations Incorporation Act 1981.
+2.2 The Association is an incorporated association, recognised by the Queensland Office of Fair Trading under the Associations Incorporation Act 1981.
 
 2.3 The Association shall be an associated body of the The Union in the category of Faculty/Departmental.
 
