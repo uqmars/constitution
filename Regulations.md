@@ -1,6 +1,6 @@
 # Regulations of the UQ Mechatronics and Robotics Society
 
-This revision of the regulations is enacted and valid as of this 10th day of October, 2024.
+This revision of the regulations is enacted and valid as of this 7th day of October, 2025.
 
 These regulations are supplementary to The Constitution, with the purpose to standardise the interpretation of The Constitution. Any Regulations created should have little to no impact upon Association Members who do not belong to the Management Committee outside that which The Constitution already impacts.
 
