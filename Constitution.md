@@ -194,7 +194,7 @@ This revision of the constitution is enacted and valid on this 10th day of Octob
 * at least once each year
 * within three (3) months after the end of The Association's previous financial year.
 
-16.2 The annual general meeting will be held in the month of October each year.
+16.2 The annual general meeting will be held before the end of the month of October each year.
 
 ## 17 BUSINESS TO BE TRANSACTED AT ANNUAL GENERAL MEETING
 
