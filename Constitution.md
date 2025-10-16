@@ -40,8 +40,10 @@ This revision of the constitution is enacted and valid on this 10th day of Octob
 3.1 The aims of The Association are:
 
 * to bring members of The University community interested in or studying mechatronics and robotics together to form a dedicated society
-* to provide a relaxed club and environment where students who have no experience will be provided resources and the expertise of more experience, giving them the ability to build their own mechatronic systems
-* to provide a centralised group for enthusiasts who may wish to compete on behalf of The University at higher level robotics competitions
+* to represent and advocate for the academic interests of students enrolled in mechatronics or its composite disciplines
+* to provide a welcoming environment which encourages and enables learning within the fields of mechatronics and robotics for all skill levels
+* to provide a centralised group for enthusiasts who may wish to work on electronic, mechanical, and robotics projects, and compete on behalf of The University at higher level robotics competitions
+* to provide opportunities for members to network and form connections with members of the mechatronics and robotics community
 
 3.2 Non-Profit Clause: The assets and income of The Association shall be applied solely in furtherance of its abovementioned objects and no portion shall be distributed directly or indirectly to the members of The Association except as bona fide compensation for services rendered or expenses incurred on behalf of The Association.
 
