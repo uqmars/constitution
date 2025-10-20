@@ -4,6 +4,27 @@ This document contains a list of all club executives on record.
 
 ---
 
+## 2026 Executive Team
+
+### T5
+
+- ***President:*** Binara Wasala
+- ***Secretary:*** Shaariq Jaldin
+- ***Treasurer:*** Samantha Krause
+- ***Vice President (Mechatronics):*** Trevine Loos
+- ***Vice President (Robotics):*** Luka Wagner
+
+### Rest of Team
+
+- Zac Apelt
+- Lili-Grace Bacon
+- Jackie Cheng
+- Joseph Hatcliff
+- Quinn Horton
+- Jordan Lucido
+- Dang Bao Hoang Nguyen (Tom)
+- Mitchell Taylor
+
 ## 2025 Executive Team
 
 ### T5
