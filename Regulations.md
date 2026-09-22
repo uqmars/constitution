@@ -101,7 +101,7 @@ Within this document, the following definitions will be used:
 
 1.4.5 Invitations may be extended to all other members of the Management Committee to attend the meetings of the Executive Team, although they shall hold no voting rights.
 
-## 5 NOT USED
+## 1.5 NOT USED
 
 Not used.
 
