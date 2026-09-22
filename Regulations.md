@@ -29,11 +29,11 @@ Within this document, the following definitions will be used:
 
 # Section 1: Bodies of The Association
 
-## 1 Management Committee of The Association
+## 1.1 Management Committee of The Association
 
-1.1 The Management Committee of The Association shall be the body responsible for the management of The Association.
+1.1.1 The Management Committee of The Association shall be the body responsible for the management of The Association.
 
-1.2 The Management Committee is to be comprised of the union of members from the following bodies of The Association:
+1.1.2 The Management Committee is to be comprised of the union of members from the following bodies of The Association:
 
 - T3 Officers (as described by The Constitution)
 - T5 Officers
@@ -43,27 +43,27 @@ Within this document, the following definitions will be used:
 - Mechatronics Society Management Team
 - Robotics Club Management Team
 
-1.3 As presented by The Constitution, each body exists as a subcommittee of Association Members.
+1.1.3 As presented by The Constitution, each body exists as a subcommittee of Association Members.
 
-1.4 The Management Committee shall have two meetings per calendar year, held one each during the months of June and December. The quorum of such meetings shall be a simple majority of members of the Management Committee, which must include at least two (2) members of each body listed in 1.2.
+1.1.4 The Management Committee shall have two meetings per calendar year, held one each during the months of June and December. The quorum of such meetings shall be a simple majority of members of the Management Committee, which must include at least two (2) members of each body listed in 1.1.2.
 
-## 2 T3 Officers
+## 1.2 T3 Officers
 
-2.1 The T3 Officers shall be the chief administrative body of The Association, responsible for management of The Management Committee, The Association's finances, and for any external commitments of The Association such as to The University or to The Union.
+1.2.1 The T3 Officers shall be the chief administrative body of The Association, responsible for management of The Management Committee, The Association's finances, and for any external commitments of The Association such as to The University or to The Union.
 
-2.2 Membership of the T3 Officers shall be made up of:
+1.2.2 Membership of the T3 Officers shall be made up of:
 
 - President
 - Secretary
 - Treasurer
 
-2.3 The T3 Officers are a subset of the Executive Team, and thus follow the same election process.
+1.2.3 The T3 Officers are a subset of the Executive Team, and thus follow the same election process.
 
-## 3 T5 Officers
+## 1.3 T5 Officers
 
-3.1 The T5 Officers shall be an extension of the T3 Officers, responsible for the oversight of events and initiatives of The Association and coordination of the various offerings and initiatives of The Association.
+1.3.1 The T5 Officers shall be an extension of the T3 Officers, responsible for the oversight of events and initiatives of The Association and coordination of the various offerings and initiatives of The Association.
 
-3.2 Membership of the T5 Officers shall be made up of:
+1.3.2 Membership of the T5 Officers shall be made up of:
 
 - President
 - Secretary
@@ -71,15 +71,15 @@ Within this document, the following definitions will be used:
 - Vice President (Mechatronics)
 - Vice President (Robotics)
 
-3.3 The T5 Officers are a subset of the Executive Team, and thus follow the same election process.
+1.3.3 The T5 Officers are a subset of the Executive Team, and thus follow the same election process.
 
-3.4 The T5 Officers shall meet once per calendar month, offset from any meeting of the Executive Team by at least seven (7) days. The quorum of such meetings shall be four (4).
+1.3.4 The T5 Officers shall meet once per calendar month, offset from any meeting of the Executive Team by at least seven (7) days. The quorum of such meetings shall be four (4).
 
-## 4 Executive Team
+## 1.4 Executive Team
 
-4.1 The Executive Team is the overall leadership body of The Association, directly producing and operating the various offerings and initiatives of The Association.
+1.4.1 The Executive Team is the overall leadership body of The Association, directly producing and operating the various offerings and initiatives of The Association.
 
-4.2 Membership of the Executive Team shall be made up of:
+1.4.2 Membership of the Executive Team shall be made up of:
 
 - President
 - Secretary
@@ -95,21 +95,21 @@ Within this document, the following definitions will be used:
 - Outreach Lead
 - Projects Lead
 
-4.3 The Executive Team are elected by Association Members at General Meetings of The Association, as outlined by The Constitution.
+1.4.3 The Executive Team are elected by Association Members at General Meetings of The Association, as outlined by The Constitution.
 
-4.4 The Executive Team shall meet once per calendar month as called by the Secretary.
+1.4.4 The Executive Team shall meet once per calendar month as called by the Secretary.
 
-4.5 Invitations may be extended to all other members of the Management Committee to attend the meetings of the Executive Team, although they shall hold no voting rights.
+1.4.5 Invitations may be extended to all other members of the Management Committee to attend the meetings of the Executive Team, although they shall hold no voting rights.
 
-## 5 NOT USED
+## 1.5 NOT USED
 
 Not used.
 
-## 6 MARS Central Management Team
+## 1.6 MARS Central Management Team
 
-6.1 The MARS Central Management Team (hereon referred to as the "Central Team") are a body responsible for providing the core services needed to allow and enhance the other events, teams, and initiatives provided by The Association.
+1.6.1 The MARS Central Management Team (hereon referred to as the "Central Team") are a body responsible for providing the core services needed to allow and enhance the other events, teams, and initiatives provided by The Association.
 
-6.2 Membership of the Central Team shall be made up of:
+1.6.2 Membership of the Central Team shall be made up of:
 
 - President
 - Secretary
@@ -119,16 +119,16 @@ Not used.
 - Technical Lead
 - Any such number of appointed Officers to support the Leads
 
-6.3 The appointment of Officers of the Society Team shall occur through recommendation by the Society Team and subsequent approval from the T5 Officers.
+1.6.3 The appointment of Officers of the Society Team shall occur through recommendation by the Society Team and subsequent approval from the T5 Officers.
 
-## 7 Mechatronics Society Management Team
+## 1.7 Mechatronics Society Management Team
 
-7.1 The Mechatronics Society Management Team (hereon referred to as the "Society Team") are a body responsible for providing events and initiatives that have the goal to:
+1.7.1 The Mechatronics Society Management Team (hereon referred to as the "Society Team") are a body responsible for providing events and initiatives that have the goal to:
 
 - engage Association Members enrolled in the study of mechatronic engineering or a related discipline amongst their peers, The University, and the wider industry
 - provide events and opportunities for Association Members to develop employable skills
 
-7.2 Membership of the Society Team shall be made up of:
+1.7.2 Membership of the Society Team shall be made up of:
 
 - Vice President (Mechatronics)
 - Workshops Lead
@@ -137,16 +137,16 @@ Not used.
 - Outreach Lead
 - Any such number of appointed Officers to support the Leads
 
-7.3 The appointment of Officers of the Society Team shall occur through recommendation by the Society Team and subsequent approval from the T5 Officers.
+1.7.3 The appointment of Officers of the Society Team shall occur through recommendation by the Society Team and subsequent approval from the T5 Officers.
 
-## 8 Robotics Club Management Team
+## 1.8 Robotics Club Management Team
 
-8.1 The Robotics Club Management Team (hereon referred to as the "Club Team") are a body responsible for establishing and maintatining teams and initiatives that have the goal to:
+1.8.1 The Robotics Club Management Team (hereon referred to as the "Club Team") are a body responsible for establishing and maintatining teams and initiatives that have the goal to:
 
 - provide Association Members with industry-ready technical experiences
 - provide opportunities for Association Members to compete at higher level robotics competitions
 
-8.2 Membership of the Society Team shall be made up of:
+1.8.2 Membership of the Society Team shall be made up of:
 
 - Vice President (Robotics)
 - Projects Lead
@@ -154,39 +154,40 @@ Not used.
 - Robowars Technical Lead
 - Any such number of appointed Officers to support the Leads
 
-8.3 The appointment of Officers of the Club Team shall occur through recommendation by the Club Team and subsequent approval from the T5 Officers.
+1.8.3 The appointment of Officers of the Club Team shall occur through recommendation by the Club Team and subsequent approval from the T5 Officers.
+
 # Section 2: General Meetings and Executive Elections
 
-## 9 Elections of the Executive Team
+## 2.1 Elections of the Executive Team
 
-9.1 At the Annual General Meeting of The Association, the method by which the Executive Team is elected shall be that of a secret ballot.
+2.1.1 At the Annual General Meeting of The Association, the method by which the Executive Team is elected shall be that of a secret ballot.
 
-9.2 The secret balloting system to be followed shall be that of 'Instant-Runoff Voting'.
+2.1.2 The secret balloting system to be followed shall be that of 'Instant-Runoff Voting'.
 
-9.3 Where there are at most as many nominees for a role as there are open positions, the Returning Officer can, without ballot, declare those candidates successful.
+2.1.3 Where there are at most as many nominees for a role as there are open positions, the Returning Officer can, without ballot, declare those candidates successful.
 
-## 10 Order of Elections
+## 2.2 Order of Elections
 
-10.1 At a General Meeting of The Association where there are vacancies on the Executive Team, the order of the elections of the Executive Team shall be done by body in the following order:
+2.2.1 At a General Meeting of The Association where there are vacancies on the Executive Team, the order of the elections of the Executive Team shall be done by body in the following order:
 
 1. T3 Officers
 2. T5 Officers
 3. Executive Team
 
-10.2 Where a role resides in multiple bodies, they shall be elected as part of the first body to which they belong.
+2.2.2 Where a role resides in multiple bodies, they shall be elected as part of the first body to which they belong.
 
-10.3 The order of election of the T3 Officers shall be as follows:
+2.2.3 The order of election of the T3 Officers shall be as follows:
 
 1. President
 2. Secretary
 3. Treasurer
 
-10.4 The order of election of the T5 Officers shall be in descending order of the number of eligible nominations for the role as of the closure of advance nominations, with any ties being determined by the following order:
+2.2.4 The order of election of the T5 Officers shall be in descending order of the number of eligible nominations for the role as of the closure of advance nominations, with any ties being determined by the following order:
 
 1. Vice President (Mechatronics)
 2. Vice President (Robotics)
 
-10.5 The order of election of the Executive Team shall be in descending order of the number of eligible nominations for the role as of the closure of advance nominations, with any ties being determined by the following order:
+2.2.5 The order of election of the Executive Team shall be in descending order of the number of eligible nominations for the role as of the closure of advance nominations, with any ties being determined by the following order:
 
 1. Marketing Lead
 2. Partnerships Lead
@@ -197,14 +198,14 @@ Not used.
 7. Outreach Lead
 8. Events Lead
 
-10.6 In this section, "advance nominations" refers to the nominations that can be submitted in advance of the general meeting and excludes those that would be presented from the floor.
+2.2.6 In this section, "advance nominations" refers to the nominations that can be submitted in advance of the general meeting and excludes those that would be presented from the floor.
 
-## 11 Election of the Returning Officer
+## 2.3 Election of the Returning Officer
 
-11.1 Due to 9.1, a Returning Officer must be elected by the assembly to oversee all elections of the Executive Team, who can be neither a nominee for the Executive Team, nor a seconder of any nominee.
+2.3.1 Due to 2.1.1, a Returning Officer must be elected by the assembly to oversee all elections of the Executive Team, who can be neither a nominee for the Executive Team, nor a seconder of any nominee.
 
-11.2 The Returning Officer does not need to be a Association Member.
+2.3.2 The Returning Officer does not need to be a Association Member.
 
-11.3 Provided that it is communicated at the time of election, the Returning Officer may be elected for a period of up to thirteen (13) calendar months to serve as the Returning Officer for all General Meetings that may occur within that time.
+2.3.3 Provided that it is communicated at the time of election, the Returning Officer may be elected for a period of up to thirteen (13) calendar months to serve as the Returning Officer for all General Meetings that may occur within that time.
 
-11.4 Should a Returning Officer elected in advance as per 9.3 become ineligible to serve or not be present at a General Meeting, a new one shall be elected in their place.
+2.3.4 Should a Returning Officer elected in advance as per 2.1.3 become ineligible to serve or not be present at a General Meeting, a new one shall be elected in their place.
