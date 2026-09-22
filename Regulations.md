@@ -38,7 +38,7 @@ Within this document, the following definitions will be used:
 - T3 Officers (as described by The Constitution)
 - T5 Officers
 - Executive Team (as described by The Constitution)
-- Martian Council
+- Annual Transition Committee
 - MARS Central Management Team
 - Mechatronics Society Management Team
 - Robotics Club Management Team
@@ -101,9 +101,17 @@ Within this document, the following definitions will be used:
 
 1.4.5 Invitations may be extended to all other members of the Management Committee to attend the meetings of the Executive Team, although they shall hold no voting rights.
 
-## 1.5 NOT USED
+## 1.5 Annual Transition Committee
 
-Not used.
+1.5.1 The Annual Transition Committee (ATC) is a body established for the purpose of ensuring smooth transition between consecutive annual cohorts of the Executive Team.
+
+1.5.2 The ATC shall be formed following the conclusion of the Annual General Meeting each year, and be dissolved at the beginning of the following Calendar Year.
+
+1.5.3 The members of the ATC shall be those who held a position on the Executive Team as of the commencement of the Annual General Meeting for which the conclusion formed this committee.
+
+1.5.4 The ATC and its members shall be delegated powers equivalent to that which they held in their immediately preceding term on the Executive Team.
+
+1.5.5 The ATC shall also be delegated the responsibility of ensuring and arranging for handover, to the Executive Team with which they coincide, of all necessary information and systems required to operate the Association, prior to the committee's dissolution.
 
 ## 1.6 MARS Central Management Team
 
