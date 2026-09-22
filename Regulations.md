@@ -101,43 +101,9 @@ Within this document, the following definitions will be used:
 
 4.5 Invitations may be extended to all other members of the Management Committee to attend the meetings of the Executive Team, although they shall hold no voting rights.
 
-## 5 Martian Council
+## 5 NOT USED
 
-5.1 The Martian Council is an advisory body, set up to ensure that the interests of Association Members are heard and enacted.
-
-5.2 Membership of the Martian Council shall be made up of:
-
-- President
-- Secretary
-- Treasurer
-- One (1) Association Member representing each of the following demographics:
-    - Electronics Engineering Students
-    - Mechanical Engineering Students
-    - Female and Gender-Diverse Students
-    - First Year Students
-    - Postgraduate Students
-
-5.3 Members of the Executive Team shall be ineligible to nominate for a representative role on the council, and representative members of the Martian Council shall only be eligible to nominate for a position on the Executive Team at an Annual General Meeting of The Association.
-
-5.4 The term of each representative shall be One (1) Calendar Year.
-
-5.5 A limit of Two (2) terms shall be imposed upon representatives of the Martian Council.
-
-5.6 Nominations for the representative roles are to open within 48 hours of the close of the Annual General Meeting of The Association each year, and remain open until 11:59 pm on the 30th day of November that same year.
-
-5.7 Election of the representatives shall be held during the December meeting of the Management Committee, with the voting system left to the discretion of the President, who shall manage the votes.
-
-5.8 The term of representatives shall be that of the calendar year following their election.
-
-5.9 Representatives may resign from their post by written notice to the Secretary no less than fourteen (14) days in advance of their departure, at which time a casual vacancy be opened.
-
-5.10 In the event of a casual vacancy, nominations for the open role shall be released to Association Members for a period of seven (7) days, with the successor to be elected at the first meeting to be held by following the closure of nominations by any of the following bodies: the Management Committee, the T5 Officers, or the Executive Team.
-
-5.11 Meetings of the Martian Council shall be held once per calendar month, with at least seven (7) days notice given by the Secretary. The quorum at such a meeting shall be at least one (1) T3 Officer plus a simple majority of the representative roles.
-
-5.12 An exclusion to 5.6, 5.7, and 5.8 shall be made for the representative for "First Year Students" to allow for legitimate first years to hold the role, for which position nominations shall open on the second Sunday before classes end for the mid-semester break in Semester One as outlined by the Academic Calendar of The University, and close on the day that classes resume following the mid-semester break.
-
-5.13 Election of the representative for "First Year Students" shall take place on the first meeting of the Executive Team following the closure of nominations, with their term to commence from the first meeting of the Martian Council following their election. Their term shall end when their successor commences the following year in line with these Regulations.
+Not used.
 
 ## 6 MARS Central Management Team
 
