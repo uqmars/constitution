@@ -4,6 +4,27 @@ This document contains a list of all club executives on record.
 
 ---
 
+## 2027 Executive Team
+
+### T5
+
+- ***President:*** Shaariq Jaldin
+- ***Secretary:*** Jackie Cheng
+- ***Treasurer:*** Lucas Hennig
+- ***Vice President (Mechatronics):*** Trevine Loos
+- ***Vice President (Robotics):*** Luka Wagner
+
+### Rest of Team
+
+- Sidney Cook
+- Niklas Dark
+- Rolan Lange
+- Emma Nikolaou
+- Mitchell Taylor
+- Vy Vo
+- Jessica Zhu
+- Joanna Zhu
+
 ## 2026 Executive Team
 
 ### T5
