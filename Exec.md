@@ -19,7 +19,7 @@ This document contains a list of all club executives on record.
 - Sidney Cook
 - Niklas Dark
 - Rolan Lange
-- Emma Nikolaus
+- Emma Nikolaou
 - Mitchell Taylor
 - Vy Vo
 - Jessica Zhu
